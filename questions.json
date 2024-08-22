@@ -77,7 +77,7 @@
         "Phân đoạn và ngữ nghĩa",
         "Ngắn hạn và dài hạn"
       ],
-      "answer": "Ký ức biểu tượng và ký ức tiếng vang"
+      "answer": "Phân đoạn và ngữ nghĩa"
     },
     {
       "question": "Phản hồi (feedback) trong HCI có vai trò gì?",
@@ -217,7 +217,7 @@
         "Kết quả của việc chúng ta đánh giá các phản ứng sinh lý của mình",
         "Không có sự liên quan đến kích thích"
       ],
-      "answer": "Kết quả của việc chúng ta đánh giá các phản ứng sinh lý của mình"
+      "answer": "Sự giải thích của chúng ta về phản ứng sinh lý đối với một kích thích"
     },
     {
       "question": "Mô hình Norman về tương tác người máy gồm mấy bước cơ bản:",
@@ -297,7 +297,7 @@
         "Kéo thả đối tượng bằng chuột",
         "Chạm vào màn hình cảm ứng"
       ],
-      "answer": "Nhập liệu bằng giọng nói"
+      "answer": "Sử dụng giao diện dòng lệnh"
     },
     {
       "question": "Quy trình phát triển giao diện người dùng theo mô hình HCD (Human-Centric Design) bao gồm bước nào sau đây?",
@@ -367,7 +367,7 @@
         "Phản hồi nhanh",
         "Giao diện đơn giản"
       ],
-      "answer": "Giao diện phức tạp"
+      "answer": "Phản hồi chậm"
     },
     {
       "question": "Giao diện dòng lệnh thường được sử dụng cho:",
@@ -417,7 +417,7 @@
         "Loại bỏ hoàn toàn công thái học",
         "Tăng kích thước của điều khiển"
       ],
-      "answer": "Tăng kích thước của điều khiển"
+      "answer": "Giảm bớt các chức năng"
     },
     {
       "question": "Người dùng sẽ sử dụng một hệ thống HCI nếu:",
@@ -487,7 +487,7 @@
         "Sáng tạo và thích thú",
         "An toàn và tiện ích"
       ],
-      "answer": "Thực tế và cảm xúc"
+      "answer": "Thực dụng và hưởng thụ"
     },
     {
       "question": "Nguyên tắc nào sau đây KHÔNG là một phần của thiết kế tương tác?",
@@ -507,7 +507,7 @@
         "Tính nhất quán bên ngoài đề cập đến việc thiết kế các hoạt động, giao diện, v.v. giống nhau trên các ứng dụng và thiết bị.",
         "A và B đúng."
       ],
-      "answer": "Tính nhất quán bên ngoài đề cập đến việc thiết kế các hoạt động, giao diện, v.v. giống nhau trên các ứng dụng và thiết bị."
+      "answer": "A và B đúng."
     },
     {
       "question": "Mô hình kim cương kép (Double Diamond) trong thiết kế tương tác đề cập đến điều gì?",
@@ -707,7 +707,7 @@
         "Nhận thức nhanh và nhận thức chậm.",
         "Nhận thức có ý thức và nhận thức không ý thức."
       ],
-      "answer": "Nhận thức nhanh và nhận thức chậm."
+      "answer": "Nhận thức trải nghiệm và phản ánh."
     },
     {
       "question": "Theo Kahneman, tư duy nhanh thường liên quan đến:",
@@ -757,7 +757,7 @@
         "Khi người dùng cần học hỏi thông tin mới",
         "Khi người dùng cần tìm kiếm thông tin"
       ],
-      "answer": "Khi người dùng cần thực hiện các thao tác phức tạp"
+      "answer": "Khi người dùng cần tìm kiếm thông tin"
     },
     {
       "question": "Khi nào việc thiết kế giao diện nên giới hạn số lượng tùy chọn?",
@@ -787,7 +787,7 @@
         "Sai lầm do thiết kế thông tin và sai lầm do quá tải thông tin",
         "Sai lầm do chủ quan và sai lầm do khách quan"
       ],
-      "answer": "Sai lầm do thiếu hiểu biết và sai lầm do thực hiện sai thao tác"
+      "answer": "Sai lầm do thiếu kinh nghiệm và sai lầm do thiết kế kém"
     },
     {
       "question": "Loại học tập nào liên quan đến việc tích lũy các kỹ năng và kiến thức liên quan đến trí nhớ?",
@@ -817,7 +817,7 @@
         "Dịch văn bản từng ngôn ngữ này sang ngôn ngữ khác",
         "Sử dụng giọng nói ra lệnh thực hiện các thao tác phức tạp"
       ],
-      "answer": "Dịch văn bản từng ngôn ngữ này sang ngôn ngữ khác"
+      "answer": "Sử dụng giọng nói ra lệnh thực hiện các thao tác phức tạp"
     },
     {
       "question": "Mô hình nào được sử dụng để giải thích cách con người thực hiện các hành động phức tạp, chẳng hạn như lập kế hoạch và giải quyết vấn đề?",
@@ -857,7 +857,7 @@
         "Phân loại và lưu trữ thông tin, và truy xuất thông tin",
         "Mức độ liên quan của thông tin với kiến thức hiện có của người dùng"
       ],
-      "answer": "Mức độ liên quan của thông tin với kiến thức hiện có của người dùng"
+      "answer": "Phân loại và lưu trữ thông tin, và truy xuất thông tin"
     },
     {
       "question": "Khi nào việc thiết kế giao diện nên sử dụng các chức năng đa phương tiện, chẳng hạn như video và âm thanh?",
@@ -903,21 +903,21 @@
       "question": "Các yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng học tập của con người?",
       "options": [
         "Mức độ động lực và hứng thú của người học",
+        "Phương pháp giảng dạy và chất lượng tài liệu học tập",
         "Khả năng tập trung và ghi nhớ thông tin của người học",
-        "Sự hỗ trợ từ gia đình và bạn bè",
-        "Các phương pháp giảng dạy và tài liệu học tập"
+        "Áp lực và ảnh hưởng của gia đình và xã hội"
       ],
-      "answer": "Sự hỗ trợ từ gia đình và bạn bè"
+      "answer": "Phương pháp giảng dạy và chất lượng tài liệu học tập"
     },
     {
       "question": "Tương tác xã hội là gì?",
       "options": [
         "Quá trình giao tiếp giữa các hệ thống máy tính",
         "Quá trình giao tiếp giữa con người và động vật",
-        "Quá trình giao tiếp giữa con người",
+        "Quá trình giao tiếp và kết nối giữa con người",
         "Quá trình giao tiếp giữa các hệ thống AI"
       ],
-      "answer": "Quá trình giao tiếp giữa con người"
+      "answer": "Quá trình giao tiếp và kết nối giữa con người"
     },
     {
       "question": "Ý nghĩa của sự hiện diện xã hội là gì?",
@@ -937,7 +937,7 @@
         "Cảm giác bị kiểm soát bởi công nghệ",
         "Người đang nói chọn người phát biểu tiếp theo"
       ],
-      "answer": "Người phát biểu tiếp theo tự quyết định khi nào ngừng nói"
+      "answer": "Người đang nói chọn người phát biểu tiếp theo"
     },
     {
       "question": "Một quy tắc xã hội mới trong thời COVID-19 là gì?",
@@ -994,11 +994,11 @@
       "question": "Mục tiêu của AI cảm xúc (EmotionAI) là:",
       "options": [
         "Dự đoán hành vi của người dùng và tạo ra các trò chơi trực tuyến",
+        "Dự đoán cảm xúc của người dùng và các khía cạnh trong hành vi của họ",
         "Dự đoán cảm xúc của người dùng và phát triển các hệ thống AI mới",
-        "Nhận thức được người khác đang nói chuyện với ai để hiểu thông tin và hành động của bạn",
-        "Nhận thức được trạng thái cảm xúc của người khác để hiểu thông tin và hành động của bạn"
+        "Dự đoán cảm xúc và hành vi người dùng để tạo ra các ứng dụng AI"
       ],
-      "answer": "Nhận thức được trạng thái cảm xúc của người khác để hiểu thông tin và hành động của bạn"
+      "answer": "Dự đoán cảm xúc của người dùng và các khía cạnh trong hành vi của họ"
     },
     {
       "question": "Một yếu tố làm cho giao diện biểu cảm trở nên hấp dẫn là:",
@@ -1038,7 +1038,7 @@
         "Quy tắc luân phiên phát biểu",
         "Biểu cảm khuôn mặt"
       ],
-      "answer": "Cảm giác bị kiểm soát bởi công nghệ"
+      "answer": "Duy trì các mối quan hệ xã hội"
     },
     {
       "question": "Hiện diện xã hội đề cập đến điều gì?",
@@ -1055,10 +1055,10 @@
       "options": [
         "Sử dụng cảm biến sinh học",
         "Thiết kế hệ thống phản hồi cảm xúc",
-        "Giao tiếp bằng ngôn ngữ",
+        "Giao tiếp phi ngôn ngữ",
         "Đo lường cảm xúc qua nét mặt"
       ],
-      "answer": "Giao tiếp bằng ngôn ngữ"
+      "answer": "Giao tiếp phi ngôn ngữ"
     },
     {
       "question": "Biểu cảm khuôn mặt nào thường KHÔNG đo được bằng AI?",
@@ -1075,17 +1075,20 @@
       "options": [
         "Hiển thị quảng cáo cánh ân hỏa",
         "Gửi tin nhắn nhắc nhở",
-        "Cung cấp đề xuất chỉ bằng một cú nhấp chuột"
+        "Cung cấp đề xuất chỉ bằng một cú nhấp chuột",
+        "Tất cả các ý trên"
       ],
-      "answer": "Gửi tin nhắn nhắc nhở"
+      "answer": "Tất cả các ý trên"
     },
     {
       "question": "Ví dụ nào sau đây về phản hồi cảm xúc là đúng?",
       "options": [
         "Tâm trạng của người dùng được cải thiện khi sử dụng giao diện",
-        "Người dùng cảm thấy thoải mái khi tương tác với giao diện"
+        "Người dùng cảm thấy thoải mái khi tương tác với giao diện",
+        "Giao diện điều chỉnh theo cảm xúc của người dùng",
+        "Tất cả các ý trên"
       ],
-      "answer": "Người dùng cảm thấy thoải mái khi tương tác với giao diện"
+      "answer": "Tất cả các ý trên"
     },
     {
       "question": "Trong giao diện WIMP, 'I' đại diện cho từ gì?",
@@ -1095,7 +1098,7 @@
         "Interface (Giao diện)",
         "Input (Đầu vào)"
       ],
-      "answer": "Interface (Giao diện)"
+      "answer": "Icon (Biểu tượng)"
     },
     {
       "question": "Ưu điểm chính của biểu tượng (Icon) trong giao diện là gì?",
@@ -1145,7 +1148,7 @@
         "Giọng nói và xúc giác",
         "Thị giác và âm thanh"
       ],
-      "answer": "Giọng nói và thị giác"
+      "answer": "Thị giác và âm thanh"
     },
     {
       "question": "Giao diện dòng lệnh (command line) có ưu điểm gì?",
@@ -1181,11 +1184,11 @@
       "question": "Một trong những lĩnh vực ứng dụng của thực tế ảo (VR) là gì?",
       "options": [
         "Xử lý văn bản",
-        "Chữa trị nỗi sợ hãi độc hại",
+        "Chữa trị nỗi sợ hãi độ cao",
         "Quản lý tài chính",
         "Xem phim trực tuyến"
       ],
-      "answer": "Chữa trị nỗi sợ hãi độc hại"
+      "answer": "Chữa trị nỗi sợ hãi độ cao"
     },
     {
       "question": "Giao diện thiết bị gia dụng thường có đặc điểm gì?",
@@ -1232,10 +1235,10 @@
       "options": [
         "Công nghệ màn hình cảm ứng và công nghệ siêu âm",
         "Công nghệ màn hình cảm ứng và thị giác máy tính",
-        "Công nghệ hồng ngoại camera và cảm biến nhiệt",
-        "Công nghệ hồng ngoại camera và thị giác máy tính"
+        "Công nghệ nhận dạng camera và cảm biến nhiệt",
+        "Công nghệ nhận dạng camera và thị giác máy tính"
       ],
-      "answer": "Công nghệ hồng ngoại camera và cảm biến nhiệt"
+      "answer": "Công nghệ nhận dạng camera và thị giác máy tính"
     },
     {
       "question": "Đâu là đặc điểm không phải của giao diện thông minh (smart interface)?",
@@ -1245,7 +1248,7 @@
         "Kết nối với internet và các thiết bị khác",
         "Hoạt động độc lập với sự can thiệp của con người"
       ],
-      "answer": "Tương tác xây dựng con người"
+      "answer": "Hoạt động độc lập với sự can thiệp của con người"
     },
     {
       "question": "Khi thiết kế giao diện não-máy tính (BCI), vấn đề đạo đức nào sau đây cần được xem xét kỹ lưỡng nhất?",
@@ -1531,10 +1534,10 @@
       "options": [
         "Khả năng AI tự giải thích các quyết định của nó",
         "Khả năng người không chuyên có thể hiểu được lời giải thích về quyết định của AI",
-        "Khả năng chuyển giao giải thích cách AI hoạt động",
+        "Khả năng chuyên gia giải thích cách AI hoạt động",
         "Khả năng AI đưa ra dự đoán chính xác"
       ],
-      "answer": "Khả năng người không chuyên có thể hiểu được lời giải thích về quyết định của AI"
+      "answer": "Khả năng chuyên gia giải thích cách AI hoạt động"
     },
     {
       "question": "Làm thế nào mà việc kết hợp phân tích tình cảm và phân tích mạng xã hội có thể cung cấp thông tin sâu sắc hơn về động lực xã hội?",
@@ -1554,7 +1557,7 @@
         "Công bằng quy trình đảm bảo quy trình ra quyết định công bằng, trong khi công bằng kết quả đảm bảo kết quả bình đẳng",
         "Công bằng quy trình là về tính minh bạch, trong khi công bằng kết quả là về tính chính xác"
       ],
-      "answer": "Công bằng quy trình đảm bảo quy trình ra quyết định công bằng, trong khi công bằng kết quả đảm bảo kết quả bình đẳng"
+      "answer": "Công bằng quy trình tập trung vào đầu vào, trong khi công bằng kết quả tập trung vào đầu ra"
     },
     {
       "question": "Làm thế nào mà phương pháp \"nghiên cứu thí điểm\" (pilot study) có thể cải thiện tính hiệu lực của một nghiên cứu tương tác người-máy lớn hơn?",
@@ -1584,7 +1587,7 @@
         "Một tuyên bố về sản phẩm dự kiến",
         "Một bản vẽ kỹ thuật chi tiết"
       ],
-      "answer": "Một bản vẽ kỹ thuật chi tiết"
+      "answer": "Một tuyên bố về sản phẩm dự kiến"
     },
     {
       "question": "Câu chuyện người dùng thường có định dạng nào?",
@@ -1654,7 +1657,7 @@
         "Thăm dò bằng công nghệ",
         "Thăm dò bằng phỏng vấn trực tiếp"
       ],
-      "answer": "Thăm dò bằng công nghệ"
+      "answer": "Thăm dò bằng phỏng vấn trực tiếp"
     },
     {
       "question": "Trong phỏng vấn theo bối cảnh, nguyên tắc nào KHÔNG phải là một trong bốn nguyên tắc chính?",
@@ -1674,7 +1677,7 @@
         "Khuyến khích tư duy đột phá",
         "Chỉ chấp nhận ý tưởng khả thi"
       ],
-      "answer": "Chỉ chấp nhận ý tưởng khả thi"
+      "answer": "Những lời chỉ trích nên được giữ lại"
     },
     {
       "question": "Mục đích chính của việc sử dụng cá tính (personas) là gì?",
@@ -1764,25 +1767,27 @@
         "Yêu cầu về không gian lưu trữ",
         "Bối cảnh sử dụng của sản phẩm"
       ],
-      "answer": "Bối cảnh sử dụng của sản phẩm"
+      "answer": "Yêu cầu về phần cứng của hệ thống"
     },
     {
       "question": "Mục đích chính của việc sử dụng Use Case là gì?",
       "options": [
         "Xác định các trường hợp sử dụng của dự án",
-        "Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm"
+        "Xác định các trường hợp người dùng cho dự án",
+        "Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm",
+        "Tạo ra một danh sách đầy đủ các yêu cầu về giao diện"
       ],
       "answer": "Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm"
     },
     {
       "question": "Nguyên mẫu trong thiết kế tương tác là gì?",
       "options": [
-        "Một mô hình thử nghiệm cho một phần của hệ thống",
-        "Một bản thiết kế chi tiết của sản phẩm",
-        "Một kế hoạch cho các tính năng trong tương lai",
-        "Một hướng dẫn sử dụng sản phẩm"
+        "Một bản vẽ kỹ thuật chi tiết cho phép các bên liên quan sử dụng nó",
+        "Một tài liệu mô tả yêu cầu cho phép các bên liên quan tương tác với nó",
+        "Một bản trình bày thiết kế cho phép các bên liên quan tương tác với nó",
+        "Một sản phẩm hoàn chỉnh cho phép các bên liên quan sử dụng nó"
       ],
-      "answer": "Một mô hình thử nghiệm cho một phần của hệ thống"
+      "answer": "Một bản trình bày thiết kế cho phép các bên liên quan tương tác với nó"
     },
     {
       "question": "Tại sao việc tạo nguyên mẫu lại quan trọng trong thiết kế tương tác?",
@@ -1832,7 +1837,7 @@
         "Có nhiều chức năng nhưng ít chi tiết",
         "Chỉ tập trung vào giao diện người dùng"
       ],
-      "answer": "Có nhiều chức năng nhưng ít chi tiết"
+      "answer": "Tập trung vào một chức năng duy nhất"
     },
     {
       "question": "AgileUX là gì?",
@@ -1962,7 +1967,7 @@
         "Bỏ qua cả chức năng và chi tiết để tăng tốc độ phát triển",
         "Cân bằng giữa chức năng và chi tiết"
       ],
-      "answer": "Tập trung vào ít chức năng nhưng với nhiều chi tiết"
+      "answer": "Tập trung vào nhiều chức năng với ít chi tiết"
     },
     {
       "question": "Trong LeanUX, quá trình 'xây dựng-đo lường-học hỏi' liên quan đến:",
@@ -2030,9 +2035,9 @@
         "Hoàn thành tất cả các tài liệu dự án",
         "Phát triển sản phẩm cuối cùng",
         "Kiểm tra sản phẩm với người dùng cuối",
-        "Thực hiện một sóng hiến cựng người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
+        "Thực hiện một số nghiên cứu người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
       ],
-      "answer": "Thực hiện một sóng hiến cựng người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
+      "answer": "Thực hiện một số nghiên cứu người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
     },
     {
       "question": "Mục đích chính của việc đánh giá trong thiết kế tương tác người-máy là gì?",
