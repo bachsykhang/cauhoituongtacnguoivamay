@@ -1039,6 +1039,1180 @@
         "Biểu cảm khuôn mặt"
       ],
       "answer": "Cảm giác bị kiểm soát bởi công nghệ"
+    },
+    {
+      "question": "Hiện diện xã hội đề cập đến điều gì?",
+      "options": [
+        "Khả năng giao tiếp hiệu quả trong nhóm",
+        "Cảm giác kết nối với người khác qua phương tiện kỹ thuật số",
+        "Cảm giác có người cùng hiện diện ở cùng một không gian vật lý",
+        "Sự hiện diện của một người trong một cuộc họp video"
+      ],
+      "answer": "Cảm giác kết nối với người khác qua phương tiện kỹ thuật số"
+    },
+    {
+      "question": "Điện toán cảm xúc KHÔNG liên quan đến việc gì?",
+      "options": [
+        "Sử dụng cảm biến sinh học",
+        "Thiết kế hệ thống phản hồi cảm xúc",
+        "Giao tiếp bằng ngôn ngữ",
+        "Đo lường cảm xúc qua nét mặt"
+      ],
+      "answer": "Giao tiếp bằng ngôn ngữ"
+    },
+    {
+      "question": "Biểu cảm khuôn mặt nào thường KHÔNG đo được bằng AI?",
+      "options": [
+        "Nhíu mày",
+        "Thù hận",
+        "Mỉm cười",
+        "Nhếch môi trên"
+      ],
+      "answer": "Thù hận"
+    },
+    {
+      "question": "Một hệ thống máy tính tương tác có thể làm gì để thay đổi hành vi của người dùng?",
+      "options": [
+        "Hiển thị quảng cáo cánh ân hỏa",
+        "Gửi tin nhắn nhắc nhở",
+        "Cung cấp đề xuất chỉ bằng một cú nhấp chuột"
+      ],
+      "answer": "Gửi tin nhắn nhắc nhở"
+    },
+    {
+      "question": "Ví dụ nào sau đây về phản hồi cảm xúc là đúng?",
+      "options": [
+        "Tâm trạng của người dùng được cải thiện khi sử dụng giao diện",
+        "Người dùng cảm thấy thoải mái khi tương tác với giao diện"
+      ],
+      "answer": "Người dùng cảm thấy thoải mái khi tương tác với giao diện"
+    },
+    {
+      "question": "Trong giao diện WIMP, 'I' đại diện cho từ gì?",
+      "options": [
+        "Interaction (Tương tác)",
+        "Icon (Biểu tượng)",
+        "Interface (Giao diện)",
+        "Input (Đầu vào)"
+      ],
+      "answer": "Interface (Giao diện)"
+    },
+    {
+      "question": "Ưu điểm chính của biểu tượng (Icon) trong giao diện là gì?",
+      "options": [
+        "Dễ học và dễ nhớ hơn các lệnh",
+        "Tính nhất quán",
+        "Tính bảo mật cao",
+        "Khả năng mở rộng"
+      ],
+      "answer": "Dễ học và dễ nhớ hơn các lệnh"
+    },
+    {
+      "question": "Một trong những hạn chế của màn hình gắn trên đầu (HMD) trong thực tế ảo là gì?",
+      "options": [
+        "Giá thành cao",
+        "Gây say tàu xe và mất phương hướng",
+        "Thiếu độ chính xác",
+        "Không thể tùy chỉnh"
+      ],
+      "answer": "Gây say tàu xe và mất phương hướng"
+    },
+    {
+      "question": "Breadcrumbs trong thiết kế website có vai trò gì?",
+      "options": [
+        "Hiển thị thông tin người dùng",
+        "Tạo trải nghiệm thẩm mỹ",
+        "Giúp người dùng điều hướng và không mất dấu",
+        "Cải thiện tốc độ tải trang"
+      ],
+      "answer": "Giúp người dùng điều hướng và không mất dấu"
+    },
+    {
+      "question": "Giao diện nào thường sử dụng phản hồi rung để mô phỏng cảm giác chạm?",
+      "options": [
+        "Đồ họa",
+        "Xúc giác",
+        "Thực tế tăng cường (AR)",
+        "Robot và máy bay không người lái"
+      ],
+      "answer": "Xúc giác"
+    },
+    {
+      "question": "Trong giao diện đa phương thức, sự kết hợp phổ biến nhất là gì?",
+      "options": [
+        "Giọng nói và thị giác",
+        "Xúc giác và thị giác",
+        "Giọng nói và xúc giác",
+        "Thị giác và âm thanh"
+      ],
+      "answer": "Giọng nói và thị giác"
+    },
+    {
+      "question": "Giao diện dòng lệnh (command line) có ưu điểm gì?",
+      "options": [
+        "Dễ học",
+        "Hiệu quả và chính xác",
+        "Đồ họa đẹp",
+        "Dễ dàng sử dụng cho người mới"
+      ],
+      "answer": "Hiệu quả và chính xác"
+    },
+    {
+      "question": "Menu dạng 'Mega' là gì?",
+      "options": [
+        "Tất cả các tùy chọn hiển thị bằng bố cục thả xuống 2D",
+        "Hiển thị các tùy chọn liên quan khi nhấn phím lệnh",
+        "Hiển thị nhiều tùy chọn trên cùng một màn hình",
+        "Cung cấp quyền truy cập vào các lệnh thường dùng"
+      ],
+      "answer": "Hiển thị nhiều tùy chọn trên cùng một màn hình"
+    },
+    {
+      "question": "Trong thiết kế đa phương tiện, việc kết hợp nhiều phương tiện có ưu điểm gì?",
+      "options": [
+        "Đảm bảo tính nhất quán",
+        "Dễ dàng hơn cho người mới học",
+        "Tạo điều kiện truy cập nhanh và nhiều cách thể hiện thông tin",
+        "Chi phí thấp"
+      ],
+      "answer": "Tạo điều kiện truy cập nhanh và nhiều cách thể hiện thông tin"
+    },
+    {
+      "question": "Một trong những lĩnh vực ứng dụng của thực tế ảo (VR) là gì?",
+      "options": [
+        "Xử lý văn bản",
+        "Chữa trị nỗi sợ hãi độc hại",
+        "Quản lý tài chính",
+        "Xem phim trực tuyến"
+      ],
+      "answer": "Chữa trị nỗi sợ hãi độc hại"
+    },
+    {
+      "question": "Giao diện thiết bị gia dụng thường có đặc điểm gì?",
+      "options": [
+        "Tính thẩm mỹ cao",
+        "Thời gian sử dụng ngắn và yêu cầu học tập tối thiểu",
+        "Yêu cầu bảo trì thường xuyên",
+        "Đòi hỏi kiến thức kỹ thuật cao"
+      ],
+      "answer": "Thời gian sử dụng ngắn và yêu cầu học tập tối thiểu"
+    },
+    {
+      "question": "Giao diện giọng nói thường được sử dụng cho mục đích gì?",
+      "options": [
+        "Xử lý văn bản",
+        "Hỏi thông tin cụ thể hoặc thực hiện giao dịch",
+        "Thiết kế đồ họa",
+        "Quản lý dữ liệu"
+      ],
+      "answer": "Hỏi thông tin cụ thể hoặc thực hiện giao dịch"
+    },
+    {
+      "question": "Thiết bị dựa vào bút thường được sử dụng để làm gì?",
+      "options": [
+        "Chơi game",
+        "Gõ văn bản",
+        "Vẽ, chú thích tài liệu và chọn đối tượng",
+        "Thực hiện giao dịch"
+      ],
+      "answer": "Vẽ, chú thích tài liệu và chọn đối tượng"
+    },
+    {
+      "question": "Một trong những lợi ích của giao diện thực tế tăng cường (AR) là gì?",
+      "options": [
+        "Tăng cường trải nghiệm ảo và cung cấp thông tin bổ sung",
+        "Tăng cường trải nghiệm thực tế và cung cấp thông tin bổ sung",
+        "Tăng cường trải nghiệm thực tế và không cần cung cấp thông tin bổ sung",
+        "Tăng cường trải nghiệm bổ sung và cung cấp thông tin ảo"
+      ],
+      "answer": "Tăng cường trải nghiệm thực tế và cung cấp thông tin bổ sung"
+    },
+    {
+      "question": "Giao diện không chạm (touchless) sử dụng kỹ thuật nào để nhận biết cử chỉ?",
+      "options": [
+        "Công nghệ màn hình cảm ứng và công nghệ siêu âm",
+        "Công nghệ màn hình cảm ứng và thị giác máy tính",
+        "Công nghệ hồng ngoại camera và cảm biến nhiệt",
+        "Công nghệ hồng ngoại camera và thị giác máy tính"
+      ],
+      "answer": "Công nghệ hồng ngoại camera và cảm biến nhiệt"
+    },
+    {
+      "question": "Đâu là đặc điểm không phải của giao diện thông minh (smart interface)?",
+      "options": [
+        "Nhận biết bối cảnh",
+        "Tương tác xây dựng con người",
+        "Kết nối với internet và các thiết bị khác",
+        "Hoạt động độc lập với sự can thiệp của con người"
+      ],
+      "answer": "Tương tác xây dựng con người"
+    },
+    {
+      "question": "Khi thiết kế giao diện não-máy tính (BCI), vấn đề đạo đức nào sau đây cần được xem xét kỹ lưỡng nhất?",
+      "options": [
+        "Khả năng gây hại cho não bộ",
+        "Quyền riêng tư của suy nghĩ cá nhân",
+        "Sự phụ thuộc vào công nghệ",
+        "Chi phí phát triển và triển khai"
+      ],
+      "answer": "Quyền riêng tư của suy nghĩ cá nhân"
+    },
+    {
+      "question": "Đâu là ưu điểm chính của giao diện hữu hình (tangible interface) so với các loại giao diện khác?",
+      "options": [
+        "Dễ dàng sao chép và phân phối",
+        "Khả năng xử lý dữ liệu phức tạp",
+        "Cho phép nhiều người cùng khám phá và thao tác đồng thời",
+        "Tiết kiệm năng lượng hơn"
+      ],
+      "answer": "Cho phép nhiều người cùng khám phá và thao tác đồng thời"
+    },
+    {
+      "question": "Trong thiết kế giao diện hologram, yếu tố nào sau đây là quan trọng nhất để tạo ra trải nghiệm tự nhiên và không gây cảm giác kỳ quái?",
+      "options": [
+        "Độ phân giải của hình ảnh",
+        "Tốc độ khung hình",
+        "Kích thước của ảnh ba chiều",
+        "Cách thể hiện và tương tác của người được chiếu"
+      ],
+      "answer": "Cách thể hiện và tương tác của người được chiếu"
+    },
+    {
+      "question": "Khi thiết kế giao diện âm thanh, yếu tố nào sau đây là quan trọng nhất để cải thiện trải nghiệm người dùng?",
+      "options": [
+        "Chất lượng âm thanh",
+        "Khả năng nhận diện giọng nói",
+        "Mô hình hóa trò chuyện của con người, bao gồm cả khả năng ngắt lời",
+        "Đa dạng giọng đọc"
+      ],
+      "answer": "Mô hình hóa trò chuyện của con người, bao gồm cả khả năng ngắt lời"
+    },
+    {
+      "question": "Khi so sánh hiệu quả của các loại giao diện khác nhau, yếu tố nào sau đây là quan trọng nhất cần xem xét?",
+      "options": [
+        "Chi phí phát triển",
+        "Độ phức tạp của công nghệ",
+        "Sự phù hợp với nhiệm vụ, người dùng và bối cảnh sử dụng",
+        "Mức độ sáng tạo của giao diện"
+      ],
+      "answer": "Sự phù hợp với nhiệm vụ, người dùng và bối cảnh sử dụng"
+    },
+    {
+      "question": "Mục tiêu chính của việc thu thập dữ liệu trong tương tác người máy là gì?",
+      "options": [
+        "Tạo ra lợi nhuận",
+        "Lập kế hoạch và thực hiện thu thập dữ liệu thành công",
+        "Tăng số lượng người dùng",
+        "Tối ưu hóa phần cứng"
+      ],
+      "answer": "Lập kế hoạch và thực hiện thu thập dữ liệu thành công"
+    },
+    {
+      "question": "Tam giác hóa (triangulation) trong thu thập dữ liệu nghĩa là gì?",
+      "options": [
+        "Sử dụng 3 phương pháp thu thập dữ liệu",
+        "Thu thập dữ liệu từ 3 người dùng",
+        "Nghiên cứu hiện tượng từ nhiều góc độ",
+        "Phân tích dữ liệu bằng 3 phương pháp"
+      ],
+      "answer": "Nghiên cứu hiện tượng từ nhiều góc độ"
+    },
+    {
+      "question": "Loại phỏng vấn nào cung cấp sự cân bằng giữa sự phong phú và khả năng nhân rộng?",
+      "options": [
+        "Phỏng vấn không cấu trúc",
+        "Phỏng vấn có cấu trúc",
+        "Phỏng vấn bán cấu trúc",
+        "Nhóm tập trung"
+      ],
+      "answer": "Phỏng vấn bán cấu trúc"
+    },
+    {
+      "question": "Trong thiết kế bảng câu hỏi, điều gì có thể ảnh hưởng đến tác động của một câu hỏi?",
+      "options": [
+        "Màu sắc của bảng câu hỏi",
+        "Thứ tự câu hỏi",
+        "Phông chữ sử dụng",
+        "Độ dài của bảng câu hỏi"
+      ],
+      "answer": "Thứ tự câu hỏi"
+    },
+    {
+      "question": "Quan sát trực tiếp trong môi trường tự nhiên bao gồm những loại nào?",
+      "options": [
+        "Cấu trúc khung và mức độ tham gia",
+        "Kỹ thuật nghĩ lớn (Think Aloud Protocol)",
+        "Nhật ký tương tác",
+        "Phân tích trang web"
+      ],
+      "answer": "Cấu trúc khung và mức độ tham gia"
+    },
+    {
+      "question": "Dân tộc học là gì?",
+      "options": [
+        "Một triết lý phỏng vấn người tham gia phương pháp phỏng vấn",
+        "Một triết lý với tập hợp các kỹ thuật bao gồm phỏng vấn người tham gia và công cụ phân tích",
+        "Một triết lý với tập hợp các kỹ thuật bao gồm quan sát và phỏng vấn người tham gia",
+        "Một triết lý với tập hợp bảng câu hỏi và phỏng vấn người tham gia"
+      ],
+      "answer": "Một triết lý với tập hợp các kỹ thuật bao gồm quan sát và phỏng vấn người tham gia"
+    },
+    {
+      "question": "Thách thức chính trong việc thiết kế giao diện có thể chia sẻ (shareable interface)?",
+      "options": [
+        "Kích thước màn hình",
+        "Độ phân giải hiển thị",
+        "Kết nối giữa các thiết bị, ứng dụng và thời gian để tạo sự tương tác liền mạch"
+      ],
+      "answer": "Kết nối giữa các thiết bị, ứng dụng và thời gian để tạo sự tương tác liền mạch"
+    },
+    {
+      "question": "Phân tích định lượng cơ bản bao gồm những gì?",
+      "options": [
+        "Tốc độ xử lý dữ liệu",
+        "Mã hóa và phân loại",
+        "Trung bình, trung vị, mode và tỷ lệ phần trăm",
+        "Phân tích diễn ngôn"
+      ],
+      "answer": "Trung bình, trung vị, mode và tỷ lệ phần trăm"
+    },
+    {
+      "question": "Phương pháp nào được sử dụng để phân tích ngữ nghĩa của một cuộc trò chuyện một cách chi tiết?",
+      "options": [
+        "Phân tích nội dung",
+        "Phân tích tương tác",
+        "Phân tích cuộc hội thoại",
+        "Lý thuyết có căn cứ"
+      ],
+      "answer": "Phân tích cuộc hội thoại"
+    },
+    {
+      "question": "Lý thuyết có căn cứ bao gồm bao nhiêu cấp độ mã hóa?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Phương pháp nào được sử dụng để suy ra điều mà một nhóm người đang cảm thấy hoặc nói?",
+      "options": [
+        "Phân tích diễn ngôn",
+        "Phân tích nội dung",
+        "Phân tích tình cảm",
+        "Phân tích mạng xã hội"
+      ],
+      "answer": "Phân tích tình cảm"
+    },
+    {
+      "question": "Câu thần chú của Ben Shneiderman về trực quan hóa dữ liệu là gì?",
+      "options": [
+        "Đầu tiên là chi tiết, sau đó là tổng quan",
+        "Đầu tiên là tổng quan, thu phóng và lọc, sau đó là chi tiết theo yêu cầu",
+        "Luôn bắt đầu với dữ liệu thô",
+        "Trực quan hóa là chìa khóa cho mọi phân tích"
+      ],
+      "answer": "Đầu tiên là tổng quan, thu phóng và lọc, sau đó là chi tiết theo yêu cầu"
+    },
+    {
+      "question": "Mục tiêu chính của các công cụ trực quan hóa dữ liệu là gì?",
+      "options": [
+        "Tạo ra đồ họa đẹp mắt",
+        "Thay thế phân tích thống kê",
+        "Tăng cường nhận thức của con người",
+        "Tăng tốc độ xử lý dữ liệu"
+      ],
+      "answer": "Tăng cường nhận thức của con người"
+    },
+    {
+      "question": "Kỹ thuật nào được sử dụng để phân tích 'bạn biết ai' ở cấp độ cá nhân?",
+      "options": [
+        "Phân tích mạng xã hội",
+        "Phân tích tình cảm",
+        "Phân tích diễn ngôn",
+        "Phân tích nội dung"
+      ],
+      "answer": "Phân tích mạng xã hội"
+    },
+    {
+      "question": "Trong phân tích định tính, mã hóa quy nạp nghĩa là gì?",
+      "options": [
+        "Áp dụng các mã được xác định trước",
+        "Phát triển mã từ dữ liệu",
+        "Sử dụng phần mềm điểm mã hóa",
+        "Mã hóa dựa trên lý thuyết"
+      ],
+      "answer": "Phát triển mã từ dữ liệu"
+    },
+    {
+      "question": "Phương pháp nào tập trung vào ý nghĩa của điều được nói và cách các từ truyền đạt ý nghĩa?",
+      "options": [
+        "Phân tích cuộc hội thoại",
+        "Phân tích nội dung",
+        "Phân tích diễn ngôn",
+        "Phân tích tương tác"
+      ],
+      "answer": "Phân tích diễn ngôn"
+    },
+    {
+      "question": "Dữ liệu lớn có thể bao gồm những loại dữ liệu nào?",
+      "options": [
+        "Chỉ số liệu",
+        "Chỉ hình ảnh",
+        "Chỉ văn bản",
+        "Số liệu, hình ảnh, văn bản, video và nhiều loại khác"
+      ],
+      "answer": "Số liệu, hình ảnh, văn bản, video và nhiều loại khác"
+    },
+    {
+      "question": "Một trong những thách thức chính của việc sử dụng dữ liệu lớn trong thiết kế tương tác là gì?",
+      "options": [
+        "Thiếu dữ liệu",
+        "Khó khăn thu thập dữ liệu",
+        "Vấn đề về quyền riêng tư và đạo đức",
+        "Tốc độ xử lý chậm"
+      ],
+      "answer": "Vấn đề về quyền riêng tư và đạo đức"
+    },
+    {
+      "question": "Kỹ thuật nào được sử dụng trong eXplainable AI (XAI) để hiển thị các khu vực quan trọng trong hình ảnh đầu vào?",
+      "options": [
+        "Heatmap",
+        "Saliency map",
+        "Scatterplot",
+        "Clustering"
+      ],
+      "answer": "Saliency map"
+    },
+    {
+      "question": "Nguyên tắc nào KHÔNG phải là một trong các nguyên tắc về đạo đức dữ liệu được đề cập?",
+      "options": [
+        "Công bằng",
+        "Trách nhiệm giải trình",
+        "Tính minh bạch",
+        "Tốc độ xử lý"
+      ],
+      "answer": "Tốc độ xử lý"
+    },
+    {
+      "question": "Phương pháp nào được sử dụng để điều tra và hiểu sự tương tác giữa con người với nhau và với đồ vật?",
+      "options": [
+        "Phân tích nội dung",
+        "Phân tích diễn ngôn",
+        "Phân tích tương tác",
+        "Phân tích mạng xã hội"
+      ],
+      "answer": "Phân tích tương tác"
+    },
+    {
+      "question": "Trong bối cảnh phân tích dữ liệu định tính, sự kết hợp giữa phương pháp quy nạp và diễn dịch có ý nghĩa gì?",
+      "options": [
+        "Tăng tốc độ phân tích",
+        "Giảm thiểu sai sót",
+        "Cân bằng giữa phát triển lý thuyết từ dữ liệu và áp dụng khung lý thuyết sẵn có",
+        "Tăng tính khách quan của nghiên cứu"
+      ],
+      "answer": "Cân bằng giữa phát triển lý thuyết từ dữ liệu và áp dụng khung lý thuyết sẵn có"
+    },
+    {
+      "question": "Làm thế nào để tam giác hóa (triangulation) có thể giải quyết các hạn chế của từng phương pháp thu thập dữ liệu riêng lẻ?",
+      "options": [
+        "Bằng cách tăng kích thước mẫu",
+        "Bằng cách xác nhận kết quả từ nhiều nguồn và phương pháp khác nhau",
+        "Bằng cách loại bỏ dữ liệu không nhất quán",
+        "Bằng cách tập trung vào phương pháp hiệu quả nhất"
+      ],
+      "answer": "Bằng cách xác nhận kết quả từ nhiều nguồn và phương pháp khác nhau"
+    },
+    {
+      "question": "Trong bối cảnh của dữ liệu lớn và AI, 'khả năng giải thích' (explainability) đề cập đến điều gì?",
+      "options": [
+        "Khả năng AI tự giải thích các quyết định của nó",
+        "Khả năng người không chuyên có thể hiểu được lời giải thích về quyết định của AI",
+        "Khả năng chuyển giao giải thích cách AI hoạt động",
+        "Khả năng AI đưa ra dự đoán chính xác"
+      ],
+      "answer": "Khả năng người không chuyên có thể hiểu được lời giải thích về quyết định của AI"
+    },
+    {
+      "question": "Làm thế nào mà việc kết hợp phân tích tình cảm và phân tích mạng xã hội có thể cung cấp thông tin sâu sắc hơn về động lực xã hội?",
+      "options": [
+        "Bằng cách chỉ tập trung vào các cảm xúc tích cực",
+        "Bằng cách loại bỏ nhu cầu phân tích định tính",
+        "Bằng cách xác định cách cảm xúc lan truyền qua các mạng xã hội",
+        "Bằng cách thay thế nhu cầu thu thập dữ liệu trực tiếp"
+      ],
+      "answer": "Bằng cách xác định cách cảm xúc lan truyền qua các mạng xã hội"
+    },
+    {
+      "question": "Trong thiết kế có đạo đức của hệ thống AI, \"công bằng quy trình\" (procedural fairness) khác với \"công bằng kết quả\" (outcome fairness) như thế nào?",
+      "options": [
+        "Công bằng quy trình tập trung vào đầu vào, trong khi công bằng kết quả tập trung vào đầu ra",
+        "Công bằng quy trình áp dụng cho AI, trong khi công bằng kết quả áp dụng cho con người",
+        "Công bằng quy trình đảm bảo quy trình ra quyết định công bằng, trong khi công bằng kết quả đảm bảo kết quả bình đẳng",
+        "Công bằng quy trình là về tính minh bạch, trong khi công bằng kết quả là về tính chính xác"
+      ],
+      "answer": "Công bằng quy trình đảm bảo quy trình ra quyết định công bằng, trong khi công bằng kết quả đảm bảo kết quả bình đẳng"
+    },
+    {
+      "question": "Làm thế nào mà phương pháp \"nghiên cứu thí điểm\" (pilot study) có thể cải thiện tính hiệu lực của một nghiên cứu tương tác người-máy lớn hơn?",
+      "options": [
+        "Bằng cách tăng kích thước mẫu",
+        "Bằng cách loại bỏ nhu cầu thu thập dữ liệu chính",
+        "Bằng cách xác định và giải quyết các vấn đề tiềm ẩn trong thiết kế nghiên cứu",
+        "Bằng cách thay thế nghiên cứu chính"
+      ],
+      "answer": "Bằng cách xác định và giải quyết các vấn đề tiềm ẩn trong thiết kế nghiên cứu"
+    },
+    {
+      "question": "Trong bối cảnh của phân tích tương tác, \"turn-taking\" đề cập đến khía cạnh nào của tương tác?",
+      "options": [
+        "Thời gian mỗi người dùng để hoàn thành một nhiệm vụ",
+        "Số lần một người dùng quay lại một ứng dụng",
+        "Cách người tham gia luân phiên nói trong cuộc trò chuyện",
+        "Tần suất người dùng thay đổi cài đặt của họ"
+      ],
+      "answer": "Cách người tham gia luân phiên nói trong cuộc trò chuyện"
+    },
+    {
+      "question": "Yêu cầu trong thiết kế tương tác người máy là gì?",
+      "options": [
+        "Một kế hoạch marketing",
+        "Một danh sách công nghệ cần sử dụng",
+        "Một tuyên bố về sản phẩm dự kiến",
+        "Một bản vẽ kỹ thuật chi tiết"
+      ],
+      "answer": "Một bản vẽ kỹ thuật chi tiết"
+    },
+    {
+      "question": "Câu chuyện người dùng thường có định dạng nào?",
+      "options": [
+        "Nếu <điều kiện>, thì <hành động>",
+        "Với tư cách là <vai trò>, tôi muốn <hành vi> sao cho <lợi ích>",
+        "Khi <sự kiện>, hệ thống sẽ <phản hồi>",
+        "<Tên người dùng> muốn <mục tiêu> bằng cách <phương pháp>"
+      ],
+      "answer": "Với tư cách là <vai trò>, tôi muốn <hành vi> sao cho <lợi ích>"
+    },
+    {
+      "question": "Yêu cầu chức năng đề cập đến điều gì?",
+      "options": [
+        "Môi trường hoạt động của hệ thống",
+        "Dữ liệu cần được lưu trữ như thế nào",
+        "Đặc điểm của người dùng",
+        "Hệ thống nên làm gì"
+      ],
+      "answer": "Hệ thống nên làm gì"
+    },
+    {
+      "question": "Phương pháp nào sau đây KHÔNG phải là một phương pháp thu thập dữ liệu cho yêu cầu?",
+      "options": [
+        "Phỏng vấn",
+        "Quan sát",
+        "Thử nghiệm A/B",
+        "Nghiên cứu tài liệu"
+      ],
+      "answer": "Thử nghiệm A/B"
+    },
+    {
+      "question": "Cá tính (personas) trong thiết kế tương tác người máy là gì?",
+      "options": [
+        "Nhân vật thực cấu trúc trong kịch bản sử dụng",
+        "Mô tả đặc tính của sản phẩm",
+        "Tập hợp các đặc điểm người dùng dựa trên nghiên cứu",
+        "Danh sách các yêu cầu chức năng"
+      ],
+      "answer": "Tập hợp các đặc điểm người dùng dựa trên nghiên cứu"
+    },
+    {
+      "question": "Kịch bản (scenario) trong thiết kế tương tác người máy là gì?",
+      "options": [
+        "Một bản vẽ kỹ thuật chi tiết",
+        "Một câu chuyện tường thuật về cách sử dụng sản phẩm",
+        "Một danh sách các tính năng của sản phẩm",
+        "Một bảng so sánh với sản phẩm cạnh tranh"
+      ],
+      "answer": "Một câu chuyện tường thuật về cách sử dụng sản phẩm"
+    },
+    {
+      "question": "Use Case tập trung vào điều gì?",
+      "options": [
+        "Yêu cầu chức năng và sự tương tác cần thực hiện",
+        "Các yếu tố thẩm mỹ của giao diện",
+        "Đặc điểm cá nhân của người dùng",
+        "Chiến lược marketing cho sản phẩm"
+      ],
+      "answer": "Yêu cầu chức năng và sự tương tác cần thực hiện"
+    },
+    {
+      "question": "Phương pháp nào sau đây KHÔNG phải là một phương pháp thăm dò các bên liên quan?",
+      "options": [
+        "Thăm dò bằng thiết kế",
+        "Thăm dò bằng văn hóa",
+        "Thăm dò bằng công nghệ",
+        "Thăm dò bằng phỏng vấn trực tiếp"
+      ],
+      "answer": "Thăm dò bằng công nghệ"
+    },
+    {
+      "question": "Trong phỏng vấn theo bối cảnh, nguyên tắc nào KHÔNG phải là một trong bốn nguyên tắc chính?",
+      "options": [
+        "Bối cảnh",
+        "Quan hệ đối tác",
+        "Diễn giải",
+        "Cạnh tranh"
+      ],
+      "answer": "Cạnh tranh"
+    },
+    {
+      "question": "Quy tắc nào sau đây KHÔNG phải là một trong bốn quy tắc động não của Alex Osborn?",
+      "options": [
+        "Số lượng hơn chất lượng",
+        "Những lời chỉ trích nên được giữ lại",
+        "Khuyến khích tư duy đột phá",
+        "Chỉ chấp nhận ý tưởng khả thi"
+      ],
+      "answer": "Chỉ chấp nhận ý tưởng khả thi"
+    },
+    {
+      "question": "Mục đích chính của việc sử dụng cá tính (personas) là gì?",
+      "options": [
+        "Xác định ngân sách cho dự án",
+        "Tạo ra một danh sách đầy đủ các yêu cầu",
+        "Giúp nhà thiết kế đưa ra quyết định thiết kế",
+        "Lập kế hoạch marketing"
+      ],
+      "answer": "Giúp nhà thiết kế đưa ra quyết định thiết kế"
+    },
+    {
+      "question": "Trong thiết kế tương tác người máy, \"khái niệm niềm vui cuộc sống\" đề cập đến điều gì?",
+      "options": [
+        "Mức độ hài lòng của khách hàng",
+        "Tính năng giải trí của sản phẩm",
+        "Cách sản phẩm làm cho cuộc sống phong phú hơn",
+        "Số lượng tính năng của sản phẩm"
+      ],
+      "answer": "Cách sản phẩm làm cho cuộc sống phong phú hơn"
+    },
+    {
+      "question": "Phương pháp nào sau đây thường được sử dụng để nắm bắt yêu cầu cho người dùng chuyên gia?",
+      "options": [
+        "Nhắc nhở và hạn chế",
+        "Phím tắt",
+        "Đường dẫn menu rõ ràng",
+        "Tính linh hoạt và quyền truy cập/sức mạnh"
+      ],
+      "answer": "Tính linh hoạt và quyền truy cập/sức mạnh"
+    },
+    {
+      "question": "Trong thiết kế tương tác người máy, \"niềm vui của các khái niệm sử dụng\" đề cập đến điều gì?",
+      "options": [
+        "Mô tả tác dụng của việc sử dụng sản phẩm",
+        "Mức độ giải trí khi sử dụng sản phẩm",
+        "Số lượng tính năng của sản phẩm",
+        "Độ phức tạp của giao diện người dùng"
+      ],
+      "answer": "Mức độ giải trí khi sử dụng sản phẩm"
+    },
+    {
+      "question": "Trong Use Case, \"trường hợp thay thế\" đề cập đến điều gì?",
+      "options": [
+        "Phiên bản thay thế của sản phẩm",
+        "Người dùng thay thế",
+        "Các tình huống khác với luồng chính của tương tác",
+        "Công nghệ thay thế"
+      ],
+      "answer": "Các tình huống khác với luồng chính của tương tác"
+    },
+    {
+      "question": "Mục đích chính của việc sử dụng kịch bản (scenarios) là gì?",
+      "options": [
+        "Xác định ngân sách cho dự án",
+        "Khám phá hành vi hiện có và tiềm năng của sản phẩm mới",
+        "Lập kế hoạch kịch bản tiếp thị",
+        "Tạo ra một danh sách đầy đủ các yêu cầu kỹ thuật"
+      ],
+      "answer": "Khám phá hành vi hiện có và tiềm năng của sản phẩm mới"
+    },
+    {
+      "question": "Trong thiết kế tương tác người máy, \"yêu cầu dữ liệu\" đề cập đến điều gì?",
+      "options": [
+        "Cách dữ liệu được hiển thị trên giao diện",
+        "Cách dữ liệu được truyền qua mạng",
+        "Tốc độ xử lý dữ liệu của hệ thống",
+        "Loại dữ liệu cần được lưu trữ và đặc điểm của nó"
+      ],
+      "answer": "Loại dữ liệu cần được lưu trữ và đặc điểm của nó"
+    },
+    {
+      "question": "Phương pháp nào sau đây thường được sử dụng để nắm bắt yêu cầu cho người dùng mới?",
+      "options": [
+        "Tính linh hoạt và quyền truy cập/sức mạnh",
+        "Phím tắt",
+        "Nhắc nhở và hạn chế",
+        "Đường dẫn menu phức tạp"
+      ],
+      "answer": "Nhắc nhở và hạn chế"
+    },
+    {
+      "question": "Trong thiết kế tương tác người máy, \"yêu cầu môi trường\" đề cập đến điều gì?",
+      "options": [
+        "Điều kiện ánh sáng khi sử dụng sản phẩm",
+        "Yêu cầu về phần cứng của hệ thống",
+        "Yêu cầu về không gian lưu trữ",
+        "Bối cảnh sử dụng của sản phẩm"
+      ],
+      "answer": "Bối cảnh sử dụng của sản phẩm"
+    },
+    {
+      "question": "Mục đích chính của việc sử dụng Use Case là gì?",
+      "options": [
+        "Xác định các trường hợp sử dụng của dự án",
+        "Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm"
+      ],
+      "answer": "Nắm bắt chi tiết về sự tương tác giữa người dùng và sản phẩm"
+    },
+    {
+      "question": "Nguyên mẫu trong thiết kế tương tác là gì?",
+      "options": [
+        "Một mô hình thử nghiệm cho một phần của hệ thống",
+        "Một bản thiết kế chi tiết của sản phẩm",
+        "Một kế hoạch cho các tính năng trong tương lai",
+        "Một hướng dẫn sử dụng sản phẩm"
+      ],
+      "answer": "Một mô hình thử nghiệm cho một phần của hệ thống"
+    },
+    {
+      "question": "Tại sao việc tạo nguyên mẫu lại quan trọng trong thiết kế tương tác?",
+      "options": [
+        "Để tránh sự tham gia quán nhiều của các bên liên quan",
+        "Để đánh giá phản hồi từ các bên liên quan",
+        "Để rút ngắn thời gian phát triển",
+        "Để giảm chi phí phát triển"
+      ],
+      "answer": "Để đánh giá phản hồi từ các bên liên quan"
+    },
+    {
+      "question": "Nguyên mẫu có độ chính xác thấp thường được tạo bằng cách sử dụng:",
+      "options": [
+        "Phần mềm phức tạp",
+        "Giấy hoặc bìa cứng",
+        "Mã nguồn hoàn chỉnh",
+        "Thiết bị điện tử cao cấp"
+      ],
+      "answer": "Giấy hoặc bìa cứng"
+    },
+    {
+      "question": "Bảng phân cảnh (storyboard) trong thiết kế tương tác là gì?",
+      "options": [
+        "Một bản vẽ kỹ thuật mô tả chi tiết thiết kế",
+        "Một loạt các bản phác thảo cho thấy cách thực hiện một nhiệm vụ",
+        "Một phân cảnh danh sách các yêu cầu chi tiết thiết kế",
+        "Một bản thiết kế phân cảnh chi tiết của sản phẩm cuối cùng"
+      ],
+      "answer": "Một loạt các bản phác thảo cho thấy cách thực hiện một nhiệm vụ"
+    },
+    {
+      "question": "Phương pháp 'Phù thủy xứ Oz' trong tạo nguyên mẫu là gì?",
+      "options": [
+        "Sử dụng ma thuật để tạo nguyên mẫu tương tác với máy tính",
+        "Sử dụng công nghệ thực tế ảo để tạo nguyên mẫu tương tác với máy tính",
+        "Người tham gia tương tác với máy tính, nhưng thực tế con người đang phản hồi",
+        "Tạo nguyên mẫu hoàn toàn tự động để người tham gia tương tác với máy tính"
+      ],
+      "answer": "Người tham gia tương tác với máy tính, nhưng thực tế con người đang phản hồi"
+    },
+    {
+      "question": "Thỏa hiệp 'ngang' trong tạo nguyên mẫu có nghĩa là gì?",
+      "options": [
+        "Chỉ tập trung vào hiệu suất hệ thống",
+        "Tập trung vào một chức năng duy nhất",
+        "Có nhiều chức năng nhưng ít chi tiết",
+        "Chỉ tập trung vào giao diện người dùng"
+      ],
+      "answer": "Có nhiều chức năng nhưng ít chi tiết"
+    },
+    {
+      "question": "AgileUX là gì?",
+      "options": [
+        "Một phần mềm thiết kế giao diện người dùng áp dụng phương pháp Agile",
+        "Một công cụ quản lý dự án của phương pháp Agile",
+        "Một phương pháp tích hợp kỹ thuật từ thiết kế tương tác và phương pháp Agile",
+        "Một ngôn ngữ lập trình cho giao diện người dùng của phương pháp Agile"
+      ],
+      "answer": "Một phương pháp tích hợp kỹ thuật từ thiết kế tương tác và phương pháp Agile"
+    },
+    {
+      "question": "LeanUX tập trung vào:",
+      "options": [
+        "Một phương pháp tích hợp kỹ thuật từ thiết kế tương tác và phương pháp Agile",
+        "Một ngôn ngữ lập trình cho giao diện người dùng của phương pháp Agile",
+        "Kéo dài thời gian phát triển UX sản phẩm",
+        "Phát triển sản phẩm nhanh chóng để nhận phản hồi thực tế từ người dùng"
+      ],
+      "answer": "Phát triển sản phẩm nhanh chóng để nhận phản hồi thực tế từ người dùng"
+    },
+    {
+      "question": "Mẫu thiết kế (design pattern) trong thiết kế tương tác là gì?",
+      "options": [
+        "Một giải pháp cho một vấn đề trong một bối cảnh cụ thể",
+        "Một bản vẽ kỹ thuật chi tiết",
+        "Một danh sách các yêu cầu phần mềm",
+        "Một bản mô tả chi tiết về sản phẩm cuối cùng"
+      ],
+      "answer": "Một giải pháp cho một vấn đề trong một bối cảnh cụ thể"
+    },
+    {
+      "question": "Ngôn ngữ thiết kế là gì?",
+      "options": [
+        "Một ngôn ngữ lập trình thiết kế",
+        "Một bộ sưu tập các cấu trúc của các mẫu và thành phần thiết kế",
+        "Một phương pháp giao tiếp giữa nhà thiết kế và lập trình viên",
+        "Một công cụ quản lý ngôn ngữ thiết kế"
+      ],
+      "answer": "Một bộ sưu tập các cấu trúc của các mẫu và thành phần thiết kế"
+    },
+    {
+      "question": "Mục đích chính của việc tạo nguyên mẫu có độ chính xác cao là gì?",
+      "options": [
+        "Để tiết kiệm chi phí phát triển hệ thống cuối cùng",
+        "Để có một sản phẩm trông giống hệ thống cuối cùng hơn",
+        "Để tránh phản hồi từ người dùng trong quá trình phát triển",
+        "Để thay thế hoàn toàn quá trình phát triển"
+      ],
+      "answer": "Để có một sản phẩm trông giống hệ thống cuối cùng hơn"
+    },
+    {
+      "question": "Trong LeanUX, 'sản phẩm khả thi tối thiểu' (MVP) là gì?",
+      "options": [
+        "Sản phẩm cuối cùng hoàn chỉnh",
+        "Một phiên bản đơn giản nhất của sản phẩm để kiểm tra giả thuyết",
+        "Một tài liệu thiết kế sản phẩm chi tiết hoàn chỉnh",
+        "Một nguyên mẫu có độ chính xác cao"
+      ],
+      "answer": "Một phiên bản đơn giản nhất của sản phẩm để kiểm tra giả thuyết"
+    },
+    {
+      "question": "Mục đích chính của việc sử dụng mẫu thiết kế là gì?",
+      "options": [
+        "Để tăng độ phức tạp của thiết kế",
+        "Để giảm sự sáng tạo của thiết kế",
+        "Để nắm bắt và tái sử dụng kinh nghiệm thiết kế",
+        "Để giảm chi phí phát triển của thiết kế"
+      ],
+      "answer": "Để nắm bắt và tái sử dụng kinh nghiệm thiết kế"
+    },
+    {
+      "question": "Chống mẫu (anti-pattern) trong thiết kế tương tác là gì?",
+      "options": [
+        "Một mẫu thiết kế tốt",
+        "Một giải pháp phổ biến cho vấn đề thiết kế",
+        "Một ví dụ về thiết kế xấu cần tránh",
+        "Một công cụ thiết kế mới"
+      ],
+      "answer": "Một ví dụ về thiết kế xấu cần tránh"
+    },
+    {
+      "question": "Tài liệu trong AgileUX nên được xử lý như thế nào?",
+      "options": [
+        "Loại bỏ hoàn toàn tài liệu",
+        "Chỉ tạo tài liệu vào cuối dự án",
+        "Tạo càng nhiều tài liệu càng tốt",
+        "Sử dụng tài liệu ở mức tối thiểu cần thiết"
+      ],
+      "answer": "Sử dụng tài liệu ở mức tối thiểu cần thiết"
+    },
+    {
+      "question": "Mục đích của việc sử dụng công cụ thiết kế tương tác là gì?",
+      "options": [
+        "Để thay thế hoàn toàn vai trò của nhà thiết kế",
+        "Để tăng chi phí dự án",
+        "Để hỗ trợ và tăng tốc quá trình thiết kế",
+        "Để giảm sự tham gia của người dùng"
+      ],
+      "answer": "Để hỗ trợ và tăng tốc quá trình thiết kế"
+    },
+    {
+      "question": "Trong thiết kế tương tác, 'nợ UX' đề cập đến:",
+      "options": [
+        "Số lượng tính năng của sản phẩm chưa được phát triển",
+        "Thời gian phát triển sản phẩm kéo dài hơn dự định",
+        "Những thỏa hiệp có lợi ngắn hạn nhưng gây vấn đề dài hạn",
+        "Chi phí tài chính của dự án chưa được chi trả"
+      ],
+      "answer": "Những thỏa hiệp có lợi ngắn hạn nhưng gây vấn đề dài hạn"
+    },
+    {
+      "question": "Mục đích của việc sử dụng bảng tâm trạng (mood board) trong thiết kế tương tác là gì?",
+      "options": [
+        "Để ghi lại cảm giác mong muốn cho sản phẩm",
+        "Để lập kế hoạch ngân sách dự án",
+        "Để quản lý thời gian phát triển",
+        "Để xác định các yêu cầu kỹ thuật"
+      ],
+      "answer": "Để ghi lại cảm giác mong muốn cho sản phẩm"
+    },
+    {
+      "question": "Trong thiết kế tương tác, khái niệm 'thỏa hiệp dọc' trong tạo nguyên mẫu đề cập đến:",
+      "options": [
+        "Tập trung vào ít chức năng nhưng với nhiều chi tiết",
+        "Tập trung vào nhiều chức năng với ít chi tiết",
+        "Bỏ qua cả chức năng và chi tiết để tăng tốc độ phát triển",
+        "Cân bằng giữa chức năng và chi tiết"
+      ],
+      "answer": "Tập trung vào ít chức năng nhưng với nhiều chi tiết"
+    },
+    {
+      "question": "Trong LeanUX, quá trình 'xây dựng-đo lường-học hỏi' liên quan đến:",
+      "options": [
+        "Tập trung vào việc tối ưu hóa quy trình nội bộ",
+        "Tạo giả thuyết, kiểm tra nhanh và điều chỉnh dựa trên kết quả",
+        "Tạo ra sản phẩm hoàn chỉnh trước khi thu thập phản hồi",
+        "Trì hoãn phản hồi của người dùng đến giai đoạn cuối của quá trình phát triển"
+      ],
+      "answer": "Tạo giả thuyết, kiểm tra nhanh và điều chỉnh dựa trên kết quả"
+    },
+    {
+      "question": "Khi áp dụng nguyên tắc 'thiết kế cho mọi người' trong thiết kế tương tác, điều quan trọng nhất cần xem xét là:",
+      "options": [
+        "Tối đa hóa số lượng các tính năng",
+        "Tạo ra một giao diện phức tạp để đáp ứng mọi nhu cầu",
+        "Đảm bảo khả năng tiếp cận và sử dụng cho nhiều đối tượng người dùng khác nhau",
+        "Tập trung vào nhóm người dùng chính"
+      ],
+      "answer": "Đảm bảo khả năng tiếp cận và sử dụng cho nhiều đối tượng người dùng khác nhau"
+    },
+    {
+      "question": "Trong bối cảnh của 'thiết kế có sự tham gia', khái niệm 'các bên liên quan là đối tác thiết kế' có nghĩa là:",
+      "options": [
+        "Các bên liên quan đóng góp tài chính cho dự án",
+        "Các bên liên quan đánh giá sản phẩm cuối cùng",
+        "Các bên liên quan tham gia tích cực vào quá trình thiết kế và đưa ra quyết định",
+        "Các bên liên quan cung cấp yêu cầu ban đầu"
+      ],
+      "answer": "Các bên liên quan tham gia tích cực vào quá trình thiết kế và đưa ra quyết định"
+    },
+    {
+      "question": "Khi áp dụng 'thiết kế dựa vào cộng đồng' trong một dự án lớn, thách thức chính là:",
+      "options": [
+        "Giảm số lượng tính năng sản phẩm",
+        "Tích hợp đóng góp từ một số lượng lớn và đa dạng các bên liên quan",
+        "Tăng tốc độ phát triển",
+        "Giảm chi phí phát triển"
+      ],
+      "answer": "Tích hợp đóng góp từ một số lượng lớn và đa dạng các bên liên quan"
+    },
+    {
+      "question": "Trong thiết kế tương tác, 'mô hình khái niệm' đóng vai trò gì?",
+      "options": [
+        "Một bản thiết kế chi tiết của giao diện người dùng và những khái niệm cần để hiểu sản phẩm",
+        "Một danh sách đầy đủ các yêu cầu kỹ thuật về giao diện người dùng và tính năng cần thiết",
+        "Một bản phác thảo về những gì người dùng có thể làm và những khái niệm cần để hiểu sản phẩm",
+        "Một bản thiết kế chi tiết và danh sách đầy đủ các yêu cầu kỹ thuật của giao diện người dùng"
+      ],
+      "answer": "Một bản phác thảo về những gì người dùng có thể làm và những khái niệm cần để hiểu sản phẩm"
+    },
+    {
+      "question": "Khi sử dụng phương pháp 'đồng thiết kế' trong một dự án, điều gì được coi là quan trọng nhất?",
+      "options": [
+        "Tăng tốc độ phát triển",
+        "Giảm chi phí dự án",
+        "Nhấn mạnh sự sáng tạo và học hỏi lẫn nhau giữa các bên liên quan",
+        "Giảm số lượng cuộc họp dự án"
+      ],
+      "answer": "Nhấn mạnh sự sáng tạo và học hỏi lẫn nhau giữa các bên liên quan"
+    },
+    {
+      "question": "Trong bối cảnh của AgileUX, 'lần lặp 0' thường được sử dụng để:",
+      "options": [
+        "Hoàn thành tất cả các tài liệu dự án",
+        "Phát triển sản phẩm cuối cùng",
+        "Kiểm tra sản phẩm với người dùng cuối",
+        "Thực hiện một sóng hiến cựng người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
+      ],
+      "answer": "Thực hiện một sóng hiến cựng người dùng ban đầu và xây dựng tầm nhìn sản phẩm"
+    },
+    {
+      "question": "Mục đích chính của việc đánh giá trong thiết kế tương tác người-máy là gì?",
+      "options": [
+        "Để đánh giá doanh thu của sản phẩm có được tính đến trong thiết kế hay không",
+        "Để tìm ra lỗi phần mềm có được tính đến trong thiết kế hay không",
+        "Để so sánh với các sản phẩm của đối thủ cạnh tranh",
+        "Để kiểm tra xem tất cả các khía cạnh của trải nghiệm người dùng có được tính đến trong thiết kế hay không"
+      ],
+      "answer": "Để kiểm tra xem tất cả các khía cạnh của trải nghiệm người dùng có được tính đến trong thiết kế hay không"
+    },
+    {
+      "question": "Đâu KHÔNG phải là một trong ba loại cài đặt đánh giá được đề cập trong tài liệu?",
+      "options": [
+        "Các cài đặt được kiểm soát có liên quan trực tiếp đến người dùng",
+        "Bất kỳ cài đặt nào không liên quan trực tiếp đến người dùng",
+        "Các cài đặt tự nhiên liên quan đến người dùng",
+        "Cài đặt trong phòng thí nghiệm ảo"
+      ],
+      "answer": "Bất kỳ cài đặt nào không liên quan trực tiếp đến người dùng"
+    },
+    {
+      "question": "Phòng thí nghiệm sống (Living Lab) là gì?",
+      "options": [
+        "Một phòng thí nghiệm để thử nghiệm các sản phẩm sống cuộc sống hàng ngày",
+        "Một môi trường nơi việc sử dụng công nghệ của con người trong cuộc sống hàng ngày có thể được đánh giá",
+        "Một phòng thí nghiệm chỉ dành cho nghiên cứu y tế sử dụng các động vật sống trong cuộc sống hàng ngày",
+        "Một môi trường nơi việc sử dụng các động vật sống trong cuộc sống hàng ngày có thể được đánh giá"
+      ],
+      "answer": "Một môi trường nơi việc sử dụng công nghệ của con người trong cuộc sống hàng ngày có thể được đánh giá"
+    },
+    {
+      "question": "Đánh giá heuristic được phát triển bởi ai?",
+      "options": [
+        "Steve Jobs",
+        "Mark Zuckerberg",
+        "Jacob Nielsen",
+        "Bill Gates"
+      ],
+      "answer": "Jacob Nielsen"
+    },
+    {
+      "question": "Phương pháp nào sau đây KHÔNG phải là một phương pháp đánh giá?",
+      "options": [
+        "Đánh giá khả năng sử dụng",
+        "Đánh giá heuristic",
+        "Phân tích trang web",
+        "Phỏng vấn nhóm tập trung"
+      ],
+      "answer": "Phỏng vấn nhóm tập trung"
+    },
+    {
+      "question": "Luật Fitts liên quan đến điều gì?",
+      "options": [
+        "Tốc độ xử lý của máy tính",
+        "Thời gian để chỉ một vật thể bằng thiết bị",
+        "Độ phức tạp của mã nguồn",
+        "Tốc độ kết nối internet"
+      ],
+      "answer": "Thời gian để chỉ một vật thể bằng thiết bị"
+    },
+    {
+      "question": "Thử nghiệm A/B là gì?",
+      "options": [
+        "Một phương pháp phân tích hai nguyên mẫu thiết kế",
+        "Một loại thí nghiệm quy mô lớn so sánh hai phiên bản của một thiết kế",
+        "Một kỹ thuật thử nghiệm lập trình hai nguyên mẫu thiết kế",
+        "Một loại thí nghiệm so sánh hai nhóm sản phẩm thiết kế"
+      ],
+      "answer": "Một loại thí nghiệm quy mô lớn so sánh hai phiên bản của một thiết kế"
+    },
+    {
+      "question": "Đâu là một trong những ưu điểm của đánh giá heuristic?",
+      "options": [
+        "Ít vấn đề đạo đức cần xem xét vì người dùng không tham gia trực tiếp",
+        "Luôn xác định được tất cả các vấn đề quan trọng",
+        "Không tốn kém để tìm chuyên gia đánh giá",
+        "Luôn cho kết quả chính xác 100%"
+      ],
+      "answer": "Ít vấn đề đạo đức cần xem xét vì người dùng không tham gia trực tiếp"
+    },
+    {
+      "question": "Đánh giá bằng hướng dẫn nhận thức (cognitive walkthrough) tập trung vào yếu tố nào?",
+      "options": [
+        "Độ chính xác của hệ thống",
+        "Tính thẩm mỹ của giao diện",
+        "Sự dễ dàng học tập",
+        "Tốc độ sử dụng"
+      ],
+      "answer": "Sự dễ dàng học tập"
+    },
+    {
+      "question": "Phân tích trang web chủ yếu được sử dụng để làm gì?",
+      "options": [
+        "Tăng tốc độ tải trang trên website để cải thiện thiết kế",
+        "Phân tích hoạt động của người dùng trên website để cải thiện thiết kế",
+        "Cải thiện SEO của người dùng",
+        "Sửa lỗi bảo mật trên website để cải thiện thiết kế"
+      ],
+      "answer": "Phân tích hoạt động của người dùng trên website để cải thiện thiết kế"
+    },
+    {
+      "question": "Đánh giá từ xa trở nên đặc biệt quan trọng trong bối cảnh nào?",
+      "options": [
+        "Sự phát triển của công nghệ 5G",
+        "Sự ra đời của trí tuệ nhân tạo",
+        "Sự phổ biến của điện toán đám mây",
+        "Đại dịch Covid-19"
+      ],
+      "answer": "Đại dịch Covid-19"
+    },
+    {
+      "question": "Trong đánh giá heuristic, Nielsen gợi ý rằng bao nhiêu người đánh giá có thể xác định được 75-80% vấn đề về khả năng sử dụng?",
+      "options": [
+        "3 người",
+        "5 người",
+        "10 người",
+        "15 người"
+      ],
+      "answer": "5 người"
+    },
+    {
+      "question": "Đâu KHÔNG phải là một trong bốn khái niệm chính (POUR) của WCAG?",
+      "options": [
+        "Perceivable (Có thể nhận biết được)",
+        "Operable (Có thể hoạt động)",
+        "Understandable (Có thể hiểu được)",
+        "Transferable (Có thể chuyển giao)"
+      ],
+      "answer": "Transferable (Có thể chuyển giao)"
+    },
+    {
+      "question": "Phương pháp nào sau đây thường liên quan đến việc thu thập dữ liệu về cách người dùng tương tác với một trang web?",
+      "options": [
+        "Đánh giá heuristic",
+        "Cognitive walkthrough",
+        "Phân tích trang web",
+        "Pluralistic walkthrough"
+      ],
+      "answer": "Phân tích trang web"
+    },
+    {
+      "question": "Định luật Fitts đặc biệt hữu ích trong việc đánh giá loại hệ thống nào?",
+      "options": [
+        "Hệ thống xử lý ngôn ngữ tự nhiên của một đối tượng là quan trọng",
+        "Hệ thống mà thời gian xác định vị trí của một đối tượng là quan trọng",
+        "Hệ thống quản lý cơ sở dữ liệu của một đối tượng là quan trọng",
+        "Hệ thống mạng máy tính của một đối tượng là quan trọng"
+      ],
+      "answer": "Hệ thống mà thời gian xác định vị trí của một đối tượng là quan trọng"
+    },
+    {
+      "question": "Đánh giá bằng hướng dẫn đa dạng (Pluralistic walkthrough) khác với hướng dẫn nhận thức (cognitive walkthrough) ở điểm nào?",
+      "options": [
+        "Nó chỉ tập trung vào giao diện người dùng",
+        "Nó được thực hiện bởi một đội ngũ được quản lý cẩn thận",
+        "Nó chỉ áp dụng cho phần mềm máy tính để bàn",
+        "Nó không bao giờ yêu cầu thảo luận nhóm"
+      ],
+      "answer": "Nó được thực hiện bởi một đội ngũ được quản lý cẩn thận"
+    },
+    {
+      "question": "Mô hình dự đoán có ưu điểm gì so với thử nghiệm với người dùng?",
+      "options": [
+        "Luôn nhanh hơn",
+        "Có thể áp dụng cho mọi loại hệ thống",
+        "Luôn chính xác hơn",
+        "Ít tốn kém hơn"
+      ],
+      "answer": "Ít tốn kém hơn"
+    },
+    {
+      "question": "Đâu là một trong những thách thức đạo đức tiềm ẩn của thử nghiệm A/B?",
+      "options": [
+        "Nó luôn yêu cầu sự tham gia của người dùng như là một phần của cuộc thử nghiệm",
+        "Nó chỉ có thể được thực hiện bởi các công ty lớn",
+        "Nó có thể tạo ra tình huống khó xử nếu người dùng không biết họ là một phần của cuộc thử nghiệm",
+        "Nó luôn vi phạm quyền riêng tư của người dùng"
+      ],
+      "answer": "Nó có thể tạo ra tình huống khó xử nếu người dùng không biết họ là một phần của cuộc thử nghiệm"
     }
   ]
 }
