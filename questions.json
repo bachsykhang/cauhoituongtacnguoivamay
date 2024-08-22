@@ -1,0 +1,1044 @@
+{
+  "questions": [
+    {
+      "question": "Tương tác người máy (HCI) là gì?",
+      "options": [
+        "Sự giao tiếp giữa hai máy tính",
+        "Sự giao tiếp giữa con người và máy tính",
+        "Sự giao tiếp giữa hai người",
+        "Sự giao tiếp giữa máy tính và robot"
+      ],
+      "answer": "Sự giao tiếp giữa con người và máy tính"
+    },
+    {
+      "question": "Nguyên tắc quan trọng nhất trong thiết kế giao diện người dùng là gì?",
+      "options": [
+        "Tính thẩm mỹ",
+        "Tính nhất quán",
+        "Tính khả dụng",
+        "Tính bảo mật"
+      ],
+      "answer": "Tính khả dụng"
+    },
+    {
+      "question": "Một trong những mục tiêu chính của HCI là gì?",
+      "options": [
+        "Tăng cường hiệu suất của phần cứng máy tính",
+        "Cải thiện trải nghiệm người dùng",
+        "Giảm chi phí phát triển phần mềm",
+        "Tăng cường tốc độ xử lý của máy tính"
+      ],
+      "answer": "Cải thiện trải nghiệm người dùng"
+    },
+    {
+      "question": "Khả năng sử dụng (usability) trong HCI đề cập đến điều gì?",
+      "options": [
+        "Tính dễ dàng trong việc học và sử dụng hệ thống",
+        "Tính ổn định của phần mềm",
+        "Tính bảo mật của hệ thống",
+        "Tính tương thích của phần mềm"
+      ],
+      "answer": "Tính dễ dàng trong việc học và sử dụng hệ thống"
+    },
+    {
+      "question": "Thiết kế lấy người làm trung tâm (Human Center Design- HCD) là gì?",
+      "options": [
+        "Thiết kế dựa trên khả năng của phần cứng",
+        "Thiết kế dựa trên xu hướng công nghệ",
+        "Thiết kế dựa trên nhu cầu và mong muốn của người dùng",
+        "Thiết kế dựa trên lợi ích kinh tế"
+      ],
+      "answer": "Thiết kế dựa trên nhu cầu và mong muốn của người dùng"
+    },
+    {
+      "question": "Một trong những phương pháp phổ biến nhất để thu thập phản hồi của người dùng là gì?",
+      "options": [
+        "Sử dụng các công cụ phân tích tự động",
+        "Đo lường tốc độ xử lý của hệ thống",
+        "Phân tích log hệ thống",
+        "Thực hiện các cuộc khảo sát và phỏng vấn người dùng"
+      ],
+      "answer": "Thực hiện các cuộc khảo sát và phỏng vấn người dùng"
+    },
+    {
+      "question": "Nguyên tắc \"Nhất quán (consistency)\" trong HCI đề cập đến điều gì?",
+      "options": [
+        "Tính dễ học của hệ thống",
+        "Tính khả năng tùy chỉnh của hệ thống",
+        "Sự nhất quán trong thiết kế và hoạt động của hệ thống"
+      ],
+      "answer": "Sự nhất quán trong thiết kế và hoạt động của hệ thống"
+    },
+    {
+      "question": "Trí nhớ dài hạn (LTM) bao gồm hai loại chính:",
+      "options": [
+        "Ký ức và trí nhớ ngắn hạn",
+        "Ký ức biểu tượng và ký ức tiếng vang",
+        "Phân đoạn và ngữ nghĩa",
+        "Ngắn hạn và dài hạn"
+      ],
+      "answer": "Ký ức biểu tượng và ký ức tiếng vang"
+    },
+    {
+      "question": "Phản hồi (feedback) trong HCI có vai trò gì?",
+      "options": [
+        "Giúp giảm chi phí phát triển phần mềm",
+        "Giúp tăng cường tốc độ xử lý của hệ thống",
+        "Giúp người dùng biết hệ thống đang làm gì",
+        "Giúp bảo mật hệ thống"
+      ],
+      "answer": "Giúp người dùng biết hệ thống đang làm gì"
+    },
+    {
+      "question": "Khả năng tiếp cận (accessibility) trong HCI đề cập đến điều gì?",
+      "options": [
+        "Khả năng hệ thống tương thích với nhiều nền tảng",
+        "Khả năng hệ thống xử lý dữ liệu nhanh chóng",
+        "Khả năng người dùng có thể truy cập và sử dụng hệ thống dễ dàng",
+        "Khả năng hệ thống bảo mật thông tin"
+      ],
+      "answer": "Khả năng người dùng có thể truy cập và sử dụng hệ thống dễ dàng"
+    },
+    {
+      "question": "Khái niệm \"Affordance\" trong HCI liên quan đến điều gì?",
+      "options": [
+        "Tính khả dụng của các tính năng hệ thống",
+        "Cách mà các yếu tố giao diện ngợi ý về cách sử dụng chúng",
+        "Khả năng tương thích của hệ thống",
+        "Tính bảo mật của hệ thống"
+      ],
+      "answer": "Cách mà các yếu tố giao diện ngợi ý về cách sử dụng chúng"
+    },
+    {
+      "question": "Thiết kế phản hồi (responsive design) trong HCI có nghĩa là gì?",
+      "options": [
+        "Thiết kế giao diện tối ưu cho tốc độ xử lý",
+        "Thiết kế giao diện có phản hồi ngay lập tức",
+        "Thiết kế giao diện có thể điều chỉnh kích thước và hình dạng dựa trên thiết bị người dùng",
+        "Thiết kế giao diện dựa trên phản hồi của người dùng"
+      ],
+      "answer": "Thiết kế giao diện có thể điều chỉnh kích thước và hình dạng dựa trên thiết bị người dùng"
+    },
+    {
+      "question": "Phương pháp \"Heuristic Evaluation\" trong HCI được sử dụng để làm gì?",
+      "options": [
+        "Đánh giá tốc độ xử lý của hệ thống",
+        "Đánh giá tính khả dụng của hệ thống dựa trên các nguyên tắc thiết kế",
+        "Đánh giá khả năng bảo mật của hệ thống",
+        "Đánh giá chi phí phát triển hệ thống"
+      ],
+      "answer": "Đánh giá tính khả dụng của hệ thống dựa trên các nguyên tắc thiết kế"
+    },
+    {
+      "question": "Một nguyên tắc quan trọng trong thiết kế giao diện người dùng là gì?",
+      "options": [
+        "Tăng cường bảo mật hệ thống",
+        "Giảm thiểu số lần người dùng phải nhấp chuột",
+        "Tối ưu hóa tốc độ xử lý của hệ thống",
+        "Tăng cường độ phức tạp của giao diện"
+      ],
+      "answer": "Giảm thiểu số lần người dùng phải nhấp chuột"
+    },
+    {
+      "question": "Mô hình tinh thần (Mental Model) trong HCI đề cập đến điều gì?",
+      "options": [
+        "Cách người dùng hình dung về cách hệ thống hoạt động",
+        "Cách hệ thống xử lý thông tin",
+        "Cách phần cứng tương tác với phần mềm",
+        "Cách bảo mật được thực hiện trong hệ thống"
+      ],
+      "answer": "Cách người dùng hình dung về cách hệ thống hoạt động"
+    },
+    {
+      "question": "Trong HCI, thông tin vào/ra KHÔNG bao gồm",
+      "options": [
+        "Xúc giác",
+        "Vị giác",
+        "Thính giác",
+        "Thị giác"
+      ],
+      "answer": "Vị giác"
+    },
+    {
+      "question": "Trí nhớ ngắn hạn (STM) có khả năng chứa được:",
+      "options": [
+        "Khoảng 5±2 khối thông tin",
+        "Khoảng 7±2 khối thông tin",
+        "Khoảng 9±2 khối thông tin",
+        "Khoảng 11±2 khối thông tin"
+      ],
+      "answer": "Khoảng 7±2 khối thông tin"
+    },
+    {
+      "question": "Thời gian phản ứng của con người đối với kích thích thị giác là khoảng",
+      "options": [
+        "150ms",
+        "200ms",
+        "300ms",
+        "700ms"
+      ],
+      "answer": "200ms"
+    },
+    {
+      "question": "Thính giác cung cấp thông tin về môi trường như:",
+      "options": [
+        "Độ sáng và màu sắc",
+        "Khoảng cách và phương hướng",
+        "Kích thước và độ sâu",
+        "Nhiệt độ và áp lực"
+      ],
+      "answer": "Khoảng cách và phương hướng"
+    },
+    {
+      "question": "Cảm xúc có thể ảnh hưởng đến khả năng con người như thế nào?",
+      "options": [
+        "Chỉ ảnh hưởng đến thị giác",
+        "Chỉ ảnh hưởng đến thính giác",
+        "Ảnh hưởng đến khả năng giải quyết vấn đề",
+        "Không ảnh hưởng gì"
+      ],
+      "answer": "Ảnh hưởng đến khả năng giải quyết vấn đề"
+    },
+    {
+      "question": "Lý luận diễn dịch là:",
+      "options": [
+        "Rút ra kết luận cần thiết về mặt logic từ các tiền đề đã cho",
+        "Suy luận từ các trường hợp đã quan sát để đưa ra kết luận tổng quát",
+        "Suy luận từ sự kiện đến nguyên nhân",
+        "Quá trình tìm ra giải pháp cho một nhiệm vụ không quen thuộc"
+      ],
+      "answer": "Rút ra kết luận cần thiết về mặt logic từ các tiền đề đã cho"
+    },
+    {
+      "question": "Theo lý thuyết James-Lange, cảm xúc là",
+      "options": [
+        "Một phản ứng tâm lý đối với một kích thích",
+        "Sự giải thích của chúng ta về phản ứng sinh lý đối với một kích thích",
+        "Kết quả của việc chúng ta đánh giá các phản ứng sinh lý của mình",
+        "Không có sự liên quan đến kích thích"
+      ],
+      "answer": "Kết quả của việc chúng ta đánh giá các phản ứng sinh lý của mình"
+    },
+    {
+      "question": "Mô hình Norman về tương tác người máy gồm mấy bước cơ bản:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Trong khung tương tác của Abowd & Beale, thành phần nào sau đây không phải là một phần của khung?",
+      "options": [
+        "Người dùng",
+        "Đầu vào",
+        "Mạng máy tính",
+        "Đầu ra"
+      ],
+      "answer": "Mạng máy tính"
+    },
+    {
+      "question": "Trong lý luận quy nạp, kết luận tổng quát từ các trường hợp đã quan sát có thể:",
+      "options": [
+        "Chắc chắn đúng",
+        "Chỉ có thể chứng minh là sai, không chắc chắn đúng",
+        "Không bao giờ sai",
+        "Luôn luôn đúng"
+      ],
+      "answer": "Chỉ có thể chứng minh là sai, không chắc chắn đúng"
+    },
+    {
+      "question": "Thời gian đáp ứng với kích thích phụ thuộc vào:",
+      "options": [
+        "Độ tuổi và thể lực",
+        "Giới tính và nghề nghiệp",
+        "Trình độ học vấn và sở thích",
+        "Thời gian nghỉ ngơi và chế độ ăn uống"
+      ],
+      "answer": "Độ tuổi và thể lực"
+    },
+    {
+      "question": "Trong khung tương tác của Abowd & Beale, mục đích của người dùng được chuyển thành:",
+      "options": [
+        "Trạng thái hệ thống",
+        "Hành động tại giao diện",
+        "Màn hình đầu ra",
+        "Ngôn ngữ hệ thống"
+      ],
+      "answer": "Hành động tại giao diện"
+    },
+    {
+      "question": "Một yếu tố của công thái học (ergonomics) là:",
+      "options": [
+        "Bộ nhớ và xử lý",
+        "Sắp xếp các điều khiển và hiển thị",
+        "Thời gian phản ứng và vận động",
+        "Trình hướng gắn hạn và dài hạn"
+      ],
+      "answer": "Sắp xếp các điều khiển và hiển thị"
+    },
+    {
+      "question": "Một ví dụ về tương tác trực tiếp là:",
+      "options": [
+        "Nhập lệnh bằng bàn phím",
+        "Sử dụng chuột để kéo thả đối tượng",
+        "Sử dụng macro trong phần mềm",
+        "Lập trình bằng ngôn ngữ máy"
+      ],
+      "answer": "Sử dụng chuột để kéo thả đối tượng"
+    },
+    {
+      "question": "Phương pháp nào sau đây là một ví dụ của tương tác không trực tiếp?",
+      "options": [
+        "Nhập liệu bằng giọng nói",
+        "Sử dụng giao diện dòng lệnh",
+        "Kéo thả đối tượng bằng chuột",
+        "Chạm vào màn hình cảm ứng"
+      ],
+      "answer": "Nhập liệu bằng giọng nói"
+    },
+    {
+      "question": "Quy trình phát triển giao diện người dùng theo mô hình HCD (Human-Centric Design) bao gồm bước nào sau đây?",
+      "options": [
+        "Thiết kế giao diện dựa trên ý kiến của chuyên gia",
+        "Phát triển giao diện mà không cần ý kiến từ người dùng",
+        "Đánh giá giao diện bằng cách thu thập phản hồi từ người dùng",
+        "Thiết kế giao diện dựa trên yêu cầu kỹ thuật"
+      ],
+      "answer": "Đánh giá giao diện bằng cách thu thập phản hồi từ người dùng"
+    },
+    {
+      "question": "Phương pháp 'Nói lớn khi suy nghĩ (Think-Aloud Protocol)' trong HCI là:",
+      "options": [
+        "Người dùng mô tả cảm nhận của họ về giao diện",
+        "Người dùng nói ra suy nghĩ của họ khi tương tác với hệ thống",
+        "Người dùng suy nghĩ và giải quyết vấn đề một cách âm thầm",
+        "Người dùng viết ra những suy nghĩ của họ về giao diện"
+      ],
+      "answer": "Người dùng nói ra suy nghĩ của họ khi tương tác với hệ thống"
+    },
+    {
+      "question": "Trong lý thuyết về khả năng nhận thức, 'Sự chú ý (Attention)' đề cập đến:",
+      "options": [
+        "Khả năng ghi nhớ thông tin",
+        "Khả năng phân tích thông tin",
+        "Khả năng suy luận từ thông tin đã biết",
+        "Khả năng tập trung vào thông tin quan trọng"
+      ],
+      "answer": "Khả năng tập trung vào thông tin quan trọng"
+    },
+    {
+      "question": "Giao diện công nghiệp truyền thống thường bao gồm:",
+      "options": [
+        "Màn hình và bàn phím",
+        "Mặt số và núm xoay",
+        "Giao diện cảm ứng",
+        "Điều khiển bằng giọng nói"
+      ],
+      "answer": "Mặt số và núm xoay"
+    },
+    {
+      "question": "Một ưu điểm của giao diện kính (glass interface) là:",
+      "options": [
+        "Không làm mất bối cảnh",
+        "Cố định ở vị trí vật lý",
+        "Chi phí thấp hơn",
+        "Ít linh hoạt hơn"
+      ],
+      "answer": "Không làm mất bối cảnh"
+    },
+    {
+      "question": "Trong công thái học (ergonomics), yếu tố nào sau đây là quan trọng nhất?",
+      "options": [
+        "Tính thẩm mỹ của giao diện",
+        "Khả năng phản hồi nhanh",
+        "Sự thoải mái và hiệu quả khi sử dụng",
+        "Tính phức tạp của hệ thống"
+      ],
+      "answer": "Sự thoải mái và hiệu quả khi sử dụng"
+    },
+    {
+      "question": "Một vấn đề phổ biến trong giao diện công nghiệp là:",
+      "options": [
+        "Giao diện phức tạp",
+        "Phản hồi chậm",
+        "Phản hồi nhanh",
+        "Giao diện đơn giản"
+      ],
+      "answer": "Giao diện phức tạp"
+    },
+    {
+      "question": "Giao diện dòng lệnh thường được sử dụng cho:",
+      "options": [
+        "Người dùng có kinh nghiệm",
+        "Thao tác trực tiếp",
+        "Tương tác đồ họa",
+        "Người dùng mới bắt đầu"
+      ],
+      "answer": "Người dùng có kinh nghiệm"
+    },
+    {
+      "question": "WIMP là viết tắt của:",
+      "options": [
+        "Windows, Icons, Menus, and Pointer",
+        "Windows, Information, Menus, and Programs",
+        "Web, Icons, Menus, and Pointer",
+        "Windows, Icons, Methods, and Programs"
+      ],
+      "answer": "Windows, Icons, Menus, and Pointer"
+    },
+    {
+      "question": "Trong hệ thống WIMP, yếu tố nào sau đây KHÔNG có?",
+      "options": [
+        "Cửa sổ",
+        "Biểu tượng",
+        "Điều khiển bằng giọng nói",
+        "Con trỏ"
+      ],
+      "answer": "Điều khiển bằng giọng nói"
+    },
+    {
+      "question": "Bối cảnh xã hội và tổ chức có thể ảnh hưởng đến:",
+      "options": [
+        "Tốc độ xử lý của hệ thống",
+        "Cách người dùng tương tác với hệ thống",
+        "Tính thẩm mỹ của giao diện",
+        "Khả năng của hệ thống"
+      ],
+      "answer": "Cách người dùng tương tác với hệ thống"
+    },
+    {
+      "question": "Trong thiết kế giao diện, sự cân bằng giữa công thái học và vật lý có thể đạt được bằng cách:",
+      "options": [
+        "Giảm bớt các chức năng",
+        "Tăng độ phức tạp của hệ thống",
+        "Loại bỏ hoàn toàn công thái học",
+        "Tăng kích thước của điều khiển"
+      ],
+      "answer": "Tăng kích thước của điều khiển"
+    },
+    {
+      "question": "Người dùng sẽ sử dụng một hệ thống HCI nếu:",
+      "options": [
+        "Hệ thống có giao diện đẹp",
+        "Giá trị vượt quá chi phí",
+        "Hệ thống phức tạp",
+        "Hệ thống đắt tiền"
+      ],
+      "answer": "Giá trị vượt quá chi phí"
+    },
+    {
+      "question": "Sự thất vọng và thiếu động lực trong sử dụng hệ thống thường xuất phát từ:",
+      "options": [
+        "Giao diện đẹp mắt",
+        "Hệ thống không hoàn thiện",
+        "Tốc độ xử lý nhanh",
+        "Tính năng phong phú"
+      ],
+      "answer": "Hệ thống không hoàn thiện"
+    },
+    {
+      "question": "Thiết kế tương tác là gì theo Rogers và Preece (2019)?",
+      "options": [
+        "Thiết kế các sản phẩm tương tác để hỗ trợ cách mọi người giao tiếp và tương tác trong cuộc sống hàng ngày và công việc của họ.",
+        "Thiết kế phần mềm để người dùng dễ dàng sử dụng.",
+        "Thiết kế không gian để giao tiếp và tương tác của con người.",
+        "Thiết kế giao diện người dùng cho các ứng dụng di động."
+      ],
+      "answer": "Thiết kế các sản phẩm tương tác để hỗ trợ cách mọi người giao tiếp và tương tác trong cuộc sống hàng ngày và công việc của họ."
+    },
+    {
+      "question": "Thiết kế tương tác cần quan tâm đến những yếu tố nào?",
+      "options": [
+        "Người dùng là ai",
+        "Những hoạt động nào đang được thực hiện",
+        "Nơi diễn ra sự tương tác",
+        "Tất cả các yếu tố trên"
+      ],
+      "answer": "Tất cả các yếu tố trên"
+    },
+    {
+      "question": "Nguyên tắc thiết kế lấy con người làm trung tâm bao gồm những gì?",
+      "options": [
+        "Tập trung số lượng vào người dùng và nhiệm vụ",
+        "Đo lường thực nghiệm",
+        "Thiết kế lặp lại",
+        "Tất cả các nguyên tắc trên"
+      ],
+      "answer": "Tất cả các nguyên tắc trên"
+    },
+    {
+      "question": "Loại thiết kế nào KHÔNG được nhấn mạnh trong thiết kế tương tác?",
+      "options": [
+        "Thiết kế giao diện người dùng",
+        "Thiết kế lặp lại",
+        "Thiết kế phần mềm",
+        "Thiết kế trải nghiệm (UX)"
+      ],
+      "answer": "Thiết kế lặp lại"
+    },
+    {
+      "question": "Mô hình trải nghiệm người dùng của Hassenzahl (2010) bao gồm những khía cạnh nào?",
+      "options": [
+        "Thực dụng và hưởng thụ",
+        "Thực tế và cảm xúc",
+        "Sáng tạo và thích thú",
+        "An toàn và tiện ích"
+      ],
+      "answer": "Thực tế và cảm xúc"
+    },
+    {
+      "question": "Nguyên tắc nào sau đây KHÔNG là một phần của thiết kế tương tác?",
+      "options": [
+        "Phản hồi (Feedback)",
+        "An toàn (Safety)",
+        "Hiển thị (Visibility)",
+        "Tính nhất quán (Consistency)"
+      ],
+      "answer": "An toàn (Safety)"
+    },
+    {
+      "question": "Tính nhất quán bên trong và bên ngoài khác nhau như thế nào?",
+      "options": [
+        "Tính nhất quán bên trong đề cập đến việc thiết kế các hoạt động để hoạt động giống nhau trong một ứng dụng.",
+        "Tính nhất quán bên ngoài dễ đạt được hơn tính nhất quán bên trong.",
+        "Tính nhất quán bên ngoài đề cập đến việc thiết kế các hoạt động, giao diện, v.v. giống nhau trên các ứng dụng và thiết bị.",
+        "A và B đúng."
+      ],
+      "answer": "Tính nhất quán bên ngoài đề cập đến việc thiết kế các hoạt động, giao diện, v.v. giống nhau trên các ứng dụng và thiết bị."
+    },
+    {
+      "question": "Mô hình kim cương kép (Double Diamond) trong thiết kế tương tác đề cập đến điều gì?",
+      "options": [
+        "Quá trình khám phá và xác định các vấn đề thiết kế, sau đó phát triển và phân phối các giải pháp.",
+        "Một kỹ thuật để tạo ra các nguyên mẫu thiết kế.",
+        "Một phương pháp để đánh giá trải nghiệm người dùng.",
+        "Một cách tiếp cận để tích hợp thiết kế tương tác với phát triển phần mềm linh hoạt."
+      ],
+      "answer": "Quá trình khám phá và xác định các vấn đề thiết kế, sau đó phát triển và phân phối các giải pháp."
+    },
+    {
+      "question": "Quy trình thiết kế tương tác KHÔNG bao gồm những hoạt động nào?",
+      "options": [
+        "Thiết kế các lựa chọn thay thế.",
+        "Nguyên mẫu và đánh giá.",
+        "Nhất quán bên trong và bên ngoài",
+        "Khám phá yêu cầu."
+      ],
+      "answer": "Nhất quán bên trong và bên ngoài"
+    },
+    {
+      "question": "Nguyên tắc thiết kế nào giúp hạn chế các hành động có thể được thực hiện?",
+      "options": [
+        "Phản hồi (Feedback)",
+        "Hiển thị (Visibility)",
+        "Tính nhất quán (Consistency)",
+        "Ràng buộc (Constraints)"
+      ],
+      "answer": "Ràng buộc (Constraints)"
+    },
+    {
+      "question": "Nguyên tắc thiết kế nào giúp đảm bảo người dùng dễ dàng hiểu cách sử dụng sản phẩm?",
+      "options": [
+        "Chỉ trả (Affordance)",
+        "Nhất quán (Consistency)",
+        "Hiển thị (Visibility)",
+        "Phản hồi (Feedback)"
+      ],
+      "answer": "Chỉ trả (Affordance)"
+    },
+    {
+      "question": "Nguyên tắc thiết kế nào giúp đảm bảo các hoạt động và yếu tố trong giao diện giống nhau cho các nhiệm vụ tương tự?",
+      "options": [
+        "Nhất quán (Consistency)",
+        "Hiển thị (Visibility)",
+        "Phản hồi (Feedback)",
+        "Ràng buộc (Constraints)"
+      ],
+      "answer": "Nhất quán (Consistency)"
+    },
+    {
+      "question": "Nguyên tắc 'học và cải tiến liên tục' trong thiết kế tương tác có nghĩa là gì?",
+      "options": [
+        "Thiết kế ban đầu phải hoàn hảo và không cần thay đổi.",
+        "Người dùng phải liên tục học cách sử dụng hệ thống",
+        "Chỉ cần cải tiến khi hệ thống gặp lỗi.",
+        "Quy trình thiết kế phải liên tục được kiểm tra và cải tiến dựa trên phản hồi của người dùng."
+      ],
+      "answer": "Quy trình thiết kế phải liên tục được kiểm tra và cải tiến dựa trên phản hồi của người dùng."
+    },
+    {
+      "question": "Trong thiết kế tương tác, trạng thái 'dòng chảy (flow)' liên quan đến điều gì?",
+      "options": [
+        "Cách người dùng di chuyển qua các bước của một quy trình.",
+        "Cảm giác hứng thú và hoàn toàn chìm đắm trong hoạt động.",
+        "Cách giao diện được sắp xếp.",
+        "Tính năng của sản phẩm."
+      ],
+      "answer": "Cảm giác hứng thú và hoàn toàn chìm đắm trong hoạt động."
+    },
+    {
+      "question": "Trạng thái 'tâm lý người dùng' có ảnh hưởng gì đến thiết kế tương tác?",
+      "options": [
+        "Ảnh hưởng đến giai đoạn thử nghiệm.",
+        "Ảnh hưởng đến cách người dùng phản ứng với giao diện và hiệu suất của họ.",
+        "Không có ảnh hưởng đáng kể.",
+        "Ảnh hưởng đến thiết kế đồ họa."
+      ],
+      "answer": "Ảnh hưởng đến cách người dùng phản ứng với giao diện và hiệu suất của họ."
+    },
+    {
+      "question": "Thiết kế tương tác yêu cầu phải đánh giá những gì từ người dùng?",
+      "options": [
+        "Các hoạt động xã hội của họ.",
+        "Các mục tiêu và yêu cầu của họ khi sử dụng sản phẩm.",
+        "Thói quen hàng ngày của họ.",
+        "Trình độ học vấn và sự nghiệp của họ."
+      ],
+      "answer": "Các mục tiêu và yêu cầu của họ khi sử dụng sản phẩm."
+    },
+    {
+      "question": "'Phân cấp thông tin' (information hierarchy) trong thiết kế giao diện là gì?",
+      "options": [
+        "Sắp xếp thông tin theo thứ tự ngẫu nhiên.",
+        "Sắp xếp thông tin dựa trên mức độ quan trọng và tần suất sử dụng.",
+        "Sắp xếp thông tin theo thứ tự alphabet.",
+        "Sắp xếp thông tin dựa trên sở thích cá nhân của nhà thiết kế."
+      ],
+      "answer": "Sắp xếp thông tin dựa trên mức độ quan trọng và tần suất sử dụng."
+    },
+    {
+      "question": "Khi nào nên sử dụng nguyên mẫu (prototype) trong quy trình thiết kế tương tác?",
+      "options": [
+        "Khi có đủ kinh phí.",
+        "Sau khi sản phẩm hoàn chỉnh.",
+        "Khi gặp vấn đề khi sử dụng.",
+        "Ngay từ đầu để thu thập phản hồi sớm."
+      ],
+      "answer": "Ngay từ đầu để thu thập phản hồi sớm."
+    },
+    {
+      "question": "Tại sao phân tích nhiệm vụ (task analysis) lại quan trọng trong thiết kế tương tác?",
+      "options": [
+        "Đảm bảo rằng sản phẩm có giao diện đẹp mắt.",
+        "Giúp xác định các bước cần thiết để hoàn thành một nhiệm vụ.",
+        "Tăng doanh số bán hàng.",
+        "Giảm chi phí phát triển."
+      ],
+      "answer": "Giúp xác định các bước cần thiết để hoàn thành một nhiệm vụ."
+    },
+    {
+      "question": "Khái niệm 'tải nhận thức (cognitive load)' trong thiết kế tương tác là gì?",
+      "options": [
+        "Khả năng chịu tải (load) của hệ thống xử lý dữ liệu.",
+        "Mức độ khó khăn mà người dùng gặp phải khi xử lý thông tin.",
+        "Chi phí để phát triển sản phẩm.",
+        "Thời gian hoàn thành nhiệm vụ."
+      ],
+      "answer": "Mức độ khó khăn mà người dùng gặp phải khi xử lý thông tin."
+    },
+    {
+      "question": "'Ngữ cảnh sử dụng' (context of use) trong thiết kế tương tác liên quan đến điều gì?",
+      "options": [
+        "Các ngữ cảnh của giao diện đồ họa.",
+        "Môi trường và tình huống mà người dùng sử dụng sản phẩm.",
+        "Các ngữ cảnh của chi phí sử dụng.",
+        "Các tính năng của sản phẩm."
+      ],
+      "answer": "Môi trường và tình huống mà người dùng sử dụng sản phẩm."
+    },
+    {
+      "question": "Làm sao để xác định 'người dùng mục tiêu' (target users) trong thiết kế tương tác?",
+      "options": [
+        "Dựa trên những người không sử dụng sản phẩm.",
+        "Dựa trên những người sẽ sử dụng sản phẩm.",
+        "Dựa trên quan điểm người sử dụng của nhà sản xuất.",
+        "Dựa trên sở thích cá nhân của người sử dụng."
+      ],
+      "answer": "Dựa trên những người sẽ sử dụng sản phẩm."
+    },
+    {
+      "question": "Làm thế nào để đo lường hiệu quả của một thiết kế tương tác?",
+      "options": [
+        "Bằng cách kiểm tra tính năng của sản phẩm.",
+        "Bằng cách tăng doanh số bán hàng do phát triển HCI.",
+        "Bằng cách thu thập phản hồi từ người dùng và phân tích dữ liệu sử dụng.",
+        "Bằng cách giảm chi phí phát triển HCI."
+      ],
+      "answer": "Bằng cách thu thập phản hồi từ người dùng và phân tích dữ liệu sử dụng."
+    },
+    {
+      "question": "Khái niệm 'người dùng giả định' (personas) trong thiết kế tương tác là gì?",
+      "options": [
+        "Mô hình giả định về các nhóm người không sử dụng toàn bộ tính năng thiết kế.",
+        "Mô hình giả định về các nhóm người dùng điển hình để hướng dẫn thiết kế.",
+        "Mô hình giả định về các nhóm người dùng quan tâm đến tính năng thiết kế.",
+        "Mô hình giả định về các nhóm người dùng quan tâm đến chi phí thiết kế."
+      ],
+      "answer": "Mô hình giả định về các nhóm người dùng điển hình để hướng dẫn thiết kế."
+    },
+    {
+      "question": "Làm thế nào để giảm 'tải nhận thức' (cognitive load) trong thiết kế tương tác?",
+      "options": [
+        "Bằng cách thiết kế giao diện đơn giản, dễ hiểu và quy trình làm việc khá phức tạp.",
+        "Bằng cách thiết kế giao diện đơn giản, dễ hiểu, và tối ưu hóa quy trình làm việc.",
+        "Bằng cách thiết kế giao diện phức tạp nhưng dễ học và có thể tối ưu hóa quy trình làm việc.",
+        "Bằng cách thiết kế giao diện đơn giản, cần thời gian học sử dụng dài, nhưng có thể tối ưu hóa quy trình làm việc."
+      ],
+      "answer": "Bằng cách thiết kế giao diện đơn giản, dễ hiểu, và tối ưu hóa quy trình làm việc."
+    },
+    {
+      "question": "Nhận thức là gì?",
+      "options": [
+        "Suy nghĩ, ghi nhớ, học tập, mơ mộng, ra quyết định, nhìn, đọc, nói, viết…",
+        "Ghi nhớ, học tập, ra quyết định, đọc, nói, viết…",
+        "Suy nghĩ, ghi nhớ, học tập, đọc, nói, viết…",
+        "Suy nghĩ, ghi nhớ, học tập, ra quyết định…"
+      ],
+      "answer": "Suy nghĩ, ghi nhớ, học tập, mơ mộng, ra quyết định, nhìn, đọc, nói, viết…"
+    },
+    {
+      "question": "Hai loại nhận thức phổ biến là gì?",
+      "options": [
+        "Nhận thức trực quan và nhận thức thính giác.",
+        "Nhận thức trải nghiệm và phản ánh.",
+        "Nhận thức nhanh và nhận thức chậm.",
+        "Nhận thức có ý thức và nhận thức không ý thức."
+      ],
+      "answer": "Nhận thức nhanh và nhận thức chậm."
+    },
+    {
+      "question": "Theo Kahneman, tư duy nhanh thường liên quan đến:",
+      "options": [
+        "Giải quyết các vấn đề đòi hỏi sự suy nghĩ cẩn thận",
+        "Đưa ra quyết định dựa trên trực giác",
+        "Phân tích dữ liệu phức tạp",
+        "Cân nhắc kỹ lưỡng các lựa chọn trước khi hành động"
+      ],
+      "answer": "Đưa ra quyết định dựa trên trực giác"
+    },
+    {
+      "question": "Khả năng tập trung của con người như thế nào?",
+      "options": [
+        "Có thể duy trì sự tập trung trong thời gian dài mà không cần nghỉ ngơi",
+        "Có thể tập trung vào vô số tác nhân kích thích cùng một lúc",
+        "Không bị ảnh hưởng bởi các yếu tố bên ngoài",
+        "Bị giới hạn bởi số lượng thông tin có thể xử lý cùng một lúc"
+      ],
+      "answer": "Bị giới hạn bởi số lượng thông tin có thể xử lý cùng một lúc"
+    },
+    {
+      "question": "Khi thiết kế giao diện, nên làm gì để thu hút sự chú ý của người dùng?",
+      "options": [
+        "Sử dụng nhiều màu sắc sặc sỡ và nhấp nháy",
+        "Sử dụng cấu trúc rõ ràng và phân cấp thông tin hợp lý",
+        "Cung cấp nhiều thông tin chi tiết trên màn hình",
+        "Sử dụng âm thanh lớn gây chú ý"
+      ],
+      "answer": "Sử dụng cấu trúc rõ ràng và phân cấp thông tin hợp lý"
+    },
+    {
+      "question": "Theo Weller, mọi người mất bao nhiêu thời gian để xác định vị trí các mục thông tin được nhóm lại theo nhóm?",
+      "options": [
+        "Ít thời gian hơn so với các mục thông tin được sắp xếp ngẫu nhiên",
+        "Cùng thời gian so với các mục thông tin được sắp xếp ngẫu nhiên",
+        "Nhiều thời gian hơn so với các mục thông tin được sắp xếp ngẫu nhiên",
+        "Tất cả các câu trả lời trên đều SAI"
+      ],
+      "answer": "Ít thời gian hơn so với các mục thông tin được sắp xếp ngẫu nhiên"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên dựa trên nhận thức (recognition) hơn là gợi nhớ (recall)?",
+      "options": [
+        "Khi người dùng cần nhập thông tin",
+        "Khi người dùng cần thực hiện các thao tác phức tạp",
+        "Khi người dùng cần học hỏi thông tin mới",
+        "Khi người dùng cần tìm kiếm thông tin"
+      ],
+      "answer": "Khi người dùng cần thực hiện các thao tác phức tạp"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên giới hạn số lượng tùy chọn?",
+      "options": [
+        "Luôn luôn nên giới hạn số lượng tùy chọn",
+        "Khi người dùng cần ghi nhớ các tùy chọn",
+        "Khi người dùng cần thực hiện các thao tác nhanh chóng",
+        "Tùy theo số lượng tùy chọn"
+      ],
+      "answer": "Khi người dùng cần ghi nhớ các tùy chọn"
+    },
+    {
+      "question": "Con người có thể KHÔNG gặp khó khăn trong việc ghi nhớ thông tin?",
+      "options": [
+        "Khi thông tin quá dài và phức tạp",
+        "Khi thông tin liên kết với kiến thức hiện có",
+        "Khi thông tin được mã hóa trong một ngữ cảnh khác",
+        "Khi thông tin không được liên kết với kiến thức hiện có"
+      ],
+      "answer": "Khi thông tin liên kết với kiến thức hiện có"
+    },
+    {
+      "question": "Theo Norman, hai loại sai lầm phổ biến mà người dùng mắc phải khi sử dụng công nghệ là gì?",
+      "options": [
+        "Sai lầm do thiếu hiểu biết và sai lầm do thực hiện sai thao tác",
+        "Sai lầm do thiếu kinh nghiệm và sai lầm do thiết kế kém",
+        "Sai lầm do thiết kế thông tin và sai lầm do quá tải thông tin",
+        "Sai lầm do chủ quan và sai lầm do khách quan"
+      ],
+      "answer": "Sai lầm do thiếu hiểu biết và sai lầm do thực hiện sai thao tác"
+    },
+    {
+      "question": "Loại học tập nào liên quan đến việc tích lũy các kỹ năng và kiến thức liên quan đến trí nhớ?",
+      "options": [
+        "Học tập ngẫu nhiên",
+        "Học tập có chủ đích",
+        "Học tập theo nhóm",
+        "Học tập bằng cách quan sát"
+      ],
+      "answer": "Học tập có chủ đích"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên khuyến khích khám phá?",
+      "options": [
+        "Khi người dùng cần học hỏi thông tin mới",
+        "Khi người dùng cần thực hiện các thao tác phức tạp",
+        "Khi người dùng cần ghi nhớ nhiều thông tin",
+        "Khi người dùng cần đưa ra quyết định nhanh chóng"
+      ],
+      "answer": "Khi người dùng cần học hỏi thông tin mới"
+    },
+    {
+      "question": "Hệ thống ngôn ngữ tự nhiên KHÔNG cho phép người dùng thực hiện điều gì?",
+      "options": [
+        "Tương tác bằng giọng nói với máy tính",
+        "Nhập câu hỏi và nhận câu trả lời bằng văn bản",
+        "Dịch văn bản từng ngôn ngữ này sang ngôn ngữ khác",
+        "Sử dụng giọng nói ra lệnh thực hiện các thao tác phức tạp"
+      ],
+      "answer": "Dịch văn bản từng ngôn ngữ này sang ngôn ngữ khác"
+    },
+    {
+      "question": "Mô hình nào được sử dụng để giải thích cách con người thực hiện các hành động phức tạp, chẳng hạn như lập kế hoạch và giải quyết vấn đề?",
+      "options": [
+        "Mô hình trí tuệ",
+        "Mô hình nhận thức",
+        "Mô hình hành vi",
+        "Mô hình xử lý thông tin"
+      ],
+      "answer": "Mô hình trí tuệ"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên sử dụng các biểu tượng thay vì văn bản?",
+      "options": [
+        "Khi người dùng cần học ngôn ngữ mới",
+        "Khi người dùng cần ghi nhớ nhiều thông tin",
+        "Khi người dùng cần thực hiện các thao tác nhanh chóng",
+        "Khi người dùng đến từ các nền văn hóa khác nhau"
+      ],
+      "answer": "Khi người dùng đến từ các nền văn hóa khác nhau"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên sử dụng các chức năng đơn giản và dễ nhớ?",
+      "options": [
+        "Khi người dùng cần học hỏi thông tin mới",
+        "Khi người dùng cần thực hiện các thao tác phức tạp",
+        "Khi người dùng cần ra quyết định nhanh chóng",
+        "Khi người dùng cần ghi nhớ nhiều thông tin"
+      ],
+      "answer": "Khi người dùng cần ra quyết định nhanh chóng"
+    },
+    {
+      "question": "Các yếu tố nào sau đây KHÔNG ảnh hưởng đến cách con người ghi nhớ thông tin?",
+      "options": [
+        "Cấu trúc và tổ chức của thông tin",
+        "Mức độ chú ý của người dùng khi tiếp nhận thông tin",
+        "Phân loại và lưu trữ thông tin, và truy xuất thông tin",
+        "Mức độ liên quan của thông tin với kiến thức hiện có của người dùng"
+      ],
+      "answer": "Mức độ liên quan của thông tin với kiến thức hiện có của người dùng"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên sử dụng các chức năng đa phương tiện, chẳng hạn như video và âm thanh?",
+      "options": [
+        "Khi người dùng cần học ngôn ngữ mới",
+        "Khi người dùng cần ghi nhớ nhiều thông tin",
+        "Khi người dùng cần thực hiện các thao tác nhanh chóng",
+        "Khi người dùng cần xử lý thông tin phức tạp"
+      ],
+      "answer": "Khi người dùng cần xử lý thông tin phức tạp"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên sử dụng các hướng dẫn dựa trên ngữ cảnh?",
+      "options": [
+        "Khi người dùng cần học ngôn ngữ mới",
+        "Khi người dùng cần thực hiện các nhiệm vụ phức tạp",
+        "Khi người dùng cần thực hiện các thao tác nhanh chóng",
+        "Khi người dùng cần ghi nhớ nhiều thông tin"
+      ],
+      "answer": "Khi người dùng cần thực hiện các nhiệm vụ phức tạp"
+    },
+    {
+      "question": "Các yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng tập trung của con người?",
+      "options": [
+        "Mức độ căng thẳng và lo lắng",
+        "Chất lượng giấc ngủ",
+        "Mức độ kích thích của môi trường xung quanh",
+        "Áp lực và ảnh hưởng của người khác"
+      ],
+      "answer": "Áp lực và ảnh hưởng của người khác"
+    },
+    {
+      "question": "Khi nào việc thiết kế giao diện nên sử dụng các chức năng trợ giúp thông minh?",
+      "options": [
+        "Khi người dùng cần thực hiện các thao tác nhanh chóng",
+        "Khi người dùng cần thực hiện các nhiệm vụ phức tạp và nhiều bước",
+        "Khi người dùng cần ghi nhớ nhiều thông tin",
+        "Khi người dùng cần học ngôn ngữ mới"
+      ],
+      "answer": "Khi người dùng cần thực hiện các nhiệm vụ phức tạp và nhiều bước"
+    },
+    {
+      "question": "Các yếu tố nào sau đây KHÔNG ảnh hưởng đến khả năng học tập của con người?",
+      "options": [
+        "Mức độ động lực và hứng thú của người học",
+        "Khả năng tập trung và ghi nhớ thông tin của người học",
+        "Sự hỗ trợ từ gia đình và bạn bè",
+        "Các phương pháp giảng dạy và tài liệu học tập"
+      ],
+      "answer": "Sự hỗ trợ từ gia đình và bạn bè"
+    },
+    {
+      "question": "Tương tác xã hội là gì?",
+      "options": [
+        "Quá trình giao tiếp giữa các hệ thống máy tính",
+        "Quá trình giao tiếp giữa con người và động vật",
+        "Quá trình giao tiếp giữa con người",
+        "Quá trình giao tiếp giữa các hệ thống AI"
+      ],
+      "answer": "Quá trình giao tiếp giữa con người"
+    },
+    {
+      "question": "Ý nghĩa của sự hiện diện xã hội là gì?",
+      "options": [
+        "Phương pháp giảng dạy và chất lượng tài liệu học tập",
+        "Áp lực và ảnh hưởng của gia đình và xã hội",
+        "Quá trình giao tiếp và kết nối giữa con người",
+        "Quá trình giao tiếp giữa các hệ thống AI"
+      ],
+      "answer": "Cảm giác có mặt thực tế của người khác trong môi trường ảo"
+    },
+    {
+      "question": "Quy tắc nào sau đây thuộc về quy tắc hội thoại?",
+      "options": [
+        "Người đang nói tiếp tục nói cho đến khi người khác ngắt lời",
+        "Người khác quyết định khi nào bắt đầu nói",
+        "Cảm giác bị kiểm soát bởi công nghệ",
+        "Người đang nói chọn người phát biểu tiếp theo"
+      ],
+      "answer": "Người phát biểu tiếp theo tự quyết định khi nào ngừng nói"
+    },
+    {
+      "question": "Một quy tắc xã hội mới trong thời COVID-19 là gì?",
+      "options": [
+        "Sử dụng biểu tượng cảm xúc khi giao tiếp trực tiếp",
+        "Tự tắt tiếng khi không nói chuyện trong hội nghị truyền hình",
+        "Chào hỏi nhau bằng cách bắt tay",
+        "Ngồi gần nhau trong phòng họp"
+      ],
+      "answer": "Tự tắt tiếng khi không nói chuyện trong hội nghị truyền hình"
+    },
+    {
+      "question": "Hiện diện từ xa (telepresence) là gì?",
+      "options": [
+        "Sử dụng mạng xã hội để kết nối",
+        "Sử dụng điện thoại di động để gọi điện",
+        "Sử dụng camera độ phân giải cao với tính năng theo dõi mắt và micrô định hướng để họp trực tuyến",
+        "Sử dụng phần mềm nhắn tin để trò chuyện"
+      ],
+      "answer": "Sử dụng camera độ phân giải cao với tính năng theo dõi mắt và micrô định hướng để họp trực tuyến"
+    },
+    {
+      "question": "Các công cụ cộng tác trực tuyến bao gồm:",
+      "options": [
+        "Sử dụng email để giao tiếp",
+        "Xem phim trực tuyến",
+        "Chia sẻ lịch và xử lý văn bản",
+        "Gửi email và nhắn tin văn bản",
+        "Chơi game trực tuyến"
+      ],
+      "answer": "Chia sẻ lịch và xử lý văn bản"
+    },
+    {
+      "question": "Nhận thức tình huống là gì?",
+      "options": [
+        "Nhận thức được những gì đang xảy ra xung quanh để hiểu thông tin và hành động của bạn",
+        "Nhận thức được các quy tắc hội thoại để hiểu thông tin và hành động của người khác",
+        "Nhận thức về các yếu tố xã hội trong giao tiếp",
+        "Nhận thức các thông tin từ các nguồn khác nhau"
+      ],
+      "answer": "Nhận thức được những gì đang xảy ra xung quanh để hiểu thông tin và hành động của bạn"
+    },
+    {
+      "question": "Giao tiếp có thể chia sẻ được thiết kế để:",
+      "options": [
+        "Hỗ trợ chia sẻ văn bản và tăng cường nhận thức hiện có",
+        "Hỗ trợ chia sẻ trò chơi trực tuyến và phối hợp hợp tác nhiều người chơi",
+        "Hỗ trợ học tập và nghiên cứu",
+        "Tăng cường khả năng giải quyết vấn đề và sáng tạo"
+      ],
+      "answer": "Hỗ trợ chia sẻ văn bản và tăng cường nhận thức hiện có"
+    },
+    {
+      "question": "Mục tiêu của AI cảm xúc (EmotionAI) là:",
+      "options": [
+        "Dự đoán hành vi của người dùng và tạo ra các trò chơi trực tuyến",
+        "Dự đoán cảm xúc của người dùng và phát triển các hệ thống AI mới",
+        "Nhận thức được người khác đang nói chuyện với ai để hiểu thông tin và hành động của bạn",
+        "Nhận thức được trạng thái cảm xúc của người khác để hiểu thông tin và hành động của bạn"
+      ],
+      "answer": "Nhận thức được trạng thái cảm xúc của người khác để hiểu thông tin và hành động của bạn"
+    },
+    {
+      "question": "Một yếu tố làm cho giao diện biểu cảm trở nên hấp dẫn là:",
+      "options": [
+        "Sử dụng màu sắc, biểu tượng, âm thanh và yếu tố đồ họa",
+        "Sử dụng nhiều văn bản kết hợp đồ họa",
+        "Sử dụng hình ảnh động kết hợp âm thanh",
+        "Sử dụng văn bản đơn giản kết hợp màu sắc, đồ họa"
+      ],
+      "answer": "Sử dụng màu sắc, biểu tượng, âm thanh và yếu tố đồ họa"
+    },
+    {
+      "question": "Mục đích của việc sử dụng dữ liệu về cảm xúc trong quảng cáo là:",
+      "options": [
+        "Điều chỉnh nội dung để phát triển các quảng cáo mới phù hợp với người dùng",
+        "Điều chỉnh cảm xúc và nội dung mới phù hợp với người dùng",
+        "Tạo ra các quảng cáo hấp dẫn hơn bằng cách sử dụng cảm xúc",
+        "Tăng cường sự tương tác của quảng cáo với người dùng"
+      ],
+      "answer": "Điều chỉnh nội dung để phát triển các quảng cáo mới phù hợp với người dùng"
+    },
+    {
+      "question": "Thuyết nhân hóa trong HCI liên quan đến:",
+      "options": [
+        "Phát triển các hệ thống AI mới vào những đồ vật vô tri",
+        "Sử dụng mạng xã hội để kết nối những đồ vật vô tri",
+        "Điều chỉnh nội dung để phù hợp với trạng thái cảm xúc của người dùng",
+        "Tạo ra các trò chơi trực tuyến có những phẩm chất giống con người"
+      ],
+      "answer": "Gắn những phẩm chất giống con người vào những đồ vật vô tri"
+    },
+    {
+      "question": "Cơ chế xã hội nào KHÔNG thường được sử dụng trong các cuộc hội thoại?",
+      "options": [
+        "Giao tiếp bằng lời nói",
+        "Duy trì các mối quan hệ xã hội",
+        "Quy tắc luân phiên phát biểu",
+        "Biểu cảm khuôn mặt"
+      ],
+      "answer": "Cảm giác bị kiểm soát bởi công nghệ"
+    }
+  ]
+}
