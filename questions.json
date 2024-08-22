@@ -986,10 +986,10 @@
       "options": [
         "Hỗ trợ chia sẻ văn bản và tăng cường nhận thức hiện có",
         "Hỗ trợ chia sẻ trò chơi trực tuyến và phối hợp hợp tác nhiều người chơi",
-        "Hỗ trợ học tập và nghiên cứu",
-        "Tăng cường khả năng giải quyết vấn đề và sáng tạo"
+        "Hỗ trợ các hình thức phối hợp và cơ chế nhận thức hiện có",
+        "Hỗ trợ chia sẻ trò chơi trực tuyến và tăng cường nhận thức hiện có"
       ],
-      "answer": "Hỗ trợ chia sẻ văn bản và tăng cường nhận thức hiện có"
+      "answer": "Hỗ trợ các hình thức phối hợp và cơ chế nhận thức hiện có"
     },
     {
       "question": "Mục tiêu của AI cảm xúc (EmotionAI) là:",
@@ -1015,11 +1015,11 @@
       "question": "Mục đích của việc sử dụng dữ liệu về cảm xúc trong quảng cáo là:",
       "options": [
         "Điều chỉnh nội dung để phát triển các quảng cáo mới phù hợp với người dùng",
-        "Điều chỉnh cảm xúc và nội dung mới phù hợp với người dùng",
-        "Tạo ra các quảng cáo hấp dẫn hơn bằng cách sử dụng cảm xúc",
-        "Tăng cường sự tương tác của quảng cáo với người dùng"
+        "Điều chỉnh nội dung để phù hợp với trạng thái cảm xúc của người dùng",
+        "Điều chỉnh cảm xúc và nội dung phù hợp với người dùng",
+        "Điều chỉnh cảm xúc để phát triển các nội dung mới phù hợp với người dùng"
       ],
-      "answer": "Điều chỉnh nội dung để phát triển các quảng cáo mới phù hợp với người dùng"
+      "answer": "Điều chỉnh nội dung để phù hợp với trạng thái cảm xúc của người dùng"
     },
     {
       "question": "Thuyết nhân hóa trong HCI liên quan đến:",
